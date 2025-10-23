@@ -13,67 +13,78 @@
     {
       "id": "043bec44-489a-4606-92fa-31078313ddb0",
       "data": {
-        "entity_name": "European Volcanic Regions"
+        "entity_name": "European Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "df3acbb2-c97f-437e-8370-7e938647244e",
       "data": {
-        "entity_name": "Italian Peninsula Volcanic Provinces"
+        "entity_name": "Italian Peninsula Volcanic Provinces",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "0c2cfc71-ef43-48c4-8e61-98c8767deb80",
       "data": {
-        "entity_name": "Ongoing Seismic Activity"
+        "entity_name": "Ongoing Seismic Activity",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "94b82bfc-5c33-4242-b5bb-c1cfe561102b",
       "data": {
-        "entity_name": "Italy National Institute of Geophysics and Volcanology"
+        "entity_name": "Italy National Institute of Geophysics and Volcanology",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "f5c1bc6a-34ec-49d1-b86a-0b8fa69de358",
       "data": {
-        "entity_name": "Seismic Monitoring"
+        "entity_name": "Seismic Monitoring",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "3adf13af-fe83-4916-8edf-21e6f5053034",
       "data": {
-        "entity_name": "Subduction zone / Continental crust (>25 km)"
+        "entity_name": "Subduction zone / Continental crust (>25 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "2446e1d6-e2b4-40a2-9773-8c545b02efbf",
       "data": {
-        "entity_name": "1538"
+        "entity_name": "1538",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "ac0ea9e0-8ccb-4412-8572-9d3c59d2c101",
       "data": {
-        "entity_name": "Volcanic field"
+        "entity_name": "Volcanic field",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "2b40181a-63f5-443c-83cf-5b5a1c1d7bb4",
       "data": {
-        "entity_name": "Trachyte"
+        "entity_name": "Trachyte",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "a47e57eb-10fc-4211-9d43-69c9b26aeb43",
       "data": {
-        "entity_name": "Caldera"
+        "entity_name": "Caldera",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "1b573c31-3d6c-4616-8109-72dd89c80634",
       "data": {
-        "entity_name": "Tephra"
+        "entity_name": "Tephra",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -88,37 +99,43 @@
     {
       "id": "e5962a45-181e-4939-ac93-2173b4f4a377",
       "data": {
-        "entity_name": "Foiditic / Tephritic / Tephri-phonolitic"
+        "entity_name": "Foiditic / Tephritic / Tephri-phonolitic",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "80f70df0-396d-43f5-9300-0303a0f9c983",
       "data": {
-        "entity_name": "Signs of unrest, including periodic seismic swarms, ground uplift and intense diffuse degassing"
+        "entity_name": "Signs of unrest, including periodic seismic swarms, ground uplift and intense diffuse degassing",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "49a36568-9cb8-494d-960d-0bcb167d2158",
       "data": {
-        "entity_name": "Ignimbrite"
+        "entity_name": "Ignimbrite",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "b82c0858-ff51-4bda-824a-43284c1e694d",
       "data": {
-        "entity_name": "25 ka"
+        "entity_name": "25 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "10849a8d-778a-41a9-a742-30db54025f7c",
       "data": {
-        "entity_name": "Geochemical Monitoring"
+        "entity_name": "Geochemical Monitoring",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "d3eece04-0b1f-47ee-a825-51a7aff7bec1",
       "data": {
-        "entity_name": "Subduction of the Adriatic continental plate beneath Northern Apennines"
+        "entity_name": "Subduction of the Adriatic continental plate beneath Northern Apennines",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -135,31 +152,36 @@
     {
       "id": "57da8034-4bcc-4409-a4f2-09210bbc626c",
       "data": {
-        "entity_name": "Italy"
+        "entity_name": "Italy",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "771a31fb-2f71-46ef-aff3-ed1ec808c39b",
       "data": {
-        "entity_name": "Stratovolcano"
+        "entity_name": "Stratovolcano",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "ec1ea4ad-4e93-423f-b066-aa0fc20f6cdc",
       "data": {
-        "entity_name": "Eruption Observed"
+        "entity_name": "Eruption Observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "a6d0f165-5672-4b0a-bb89-946701b52c04",
       "data": {
-        "entity_name": "2001"
+        "entity_name": "2001",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "d3fb40d3-8dfa-4f1b-87a0-ecd59e826fb5",
       "data": {
-        "entity_name": "Basalt / Trachybasalt"
+        "entity_name": "Basalt / Trachybasalt",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -176,31 +198,36 @@
     {
       "id": "e3197c1a-9cb9-46e1-af82-7d170e61442d",
       "data": {
-        "entity_name": "Liparite"
+        "entity_name": "Liparite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "605e8a77-0001-4036-8aed-cdc372e3bdc1",
       "data": {
-        "entity_name": "8.5 or 11.5 ka, 580 or 749 AD"
+        "entity_name": "8.5 or 11.5 ka, 580 or 749 AD",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "c57da015-e4bd-49f1-92aa-e5db2bd0fe44",
       "data": {
-        "entity_name": "Pyroclasts"
+        "entity_name": "Pyroclasts",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "2a5d5f0f-5c39-4e64-b758-c062619d8182",
       "data": {
-        "entity_name": "Composite"
+        "entity_name": "Composite",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "6586c508-6e5a-4df5-af91-db6f8358d8c9",
       "data": {
-        "entity_name": "Unknown"
+        "entity_name": "Unknown",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -217,25 +244,29 @@
     {
       "id": "cbcb4d32-19fe-43e9-ba48-fea6bfdaae2f",
       "data": {
-        "entity_name": "Complex"
+        "entity_name": "Complex",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "d3e6d00c-9a07-4338-a201-1ab32bb043ce",
       "data": {
-        "entity_name": "1302 CE"
+        "entity_name": "1302 CE",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "5bfb6eca-c628-4197-99aa-8a079048152e",
       "data": {
-        "entity_name": "Trachyte / Trachydacite"
+        "entity_name": "Trachyte / Trachydacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "802c2802-b1ad-41e0-a725-6af7b443a03c",
       "data": {
-        "entity_name": "Lava / Ash"
+        "entity_name": "Lava / Ash",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -251,25 +282,29 @@
     {
       "id": "10f55da6-21f9-4e3b-aba1-b6156f11dee8",
       "data": {
-        "entity_name": "Recent Hydrothermal Activity"
+        "entity_name": "Recent Hydrothermal Activity",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "e2e6f4f6-6794-43ca-a8b0-d0dad1c14f88",
       "data": {
-        "entity_name": "Submarine"
+        "entity_name": "Submarine",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "7ee041f0-4b28-4569-8230-57a01288abb2",
       "data": {
-        "entity_name": "Seamount"
+        "entity_name": "Seamount",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "e425be2d-87c1-4c56-941a-7de05ab7fd14",
       "data": {
-        "entity_name": "Barite, Sulfides"
+        "entity_name": "Barite, Sulfides",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -286,43 +321,50 @@
     {
       "id": "48904f0d-e3b3-4276-85a4-5da5ff3c9c78",
       "data": {
-        "entity_name": "Ongoing Volcanic Activity"
+        "entity_name": "Ongoing Volcanic Activity",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "122b0529-70c3-42c7-80a1-5ebb4cb3e77f",
       "data": {
-        "entity_name": "Gas"
+        "entity_name": "Gas",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "dc0e6da8-8905-488a-8fa9-486caf9d7859",
       "data": {
-        "entity_name": "Field Surveys"
+        "entity_name": "Field Surveys",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "1b1533cd-6ba5-4027-a4c3-ddb537f879f8",
       "data": {
-        "entity_name": "Istituto Italiano di Geofisica e Vulcanologia (INGV)"
+        "entity_name": "Istituto Italiano di Geofisica e Vulcanologia (INGV)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "227841b7-e421-4182-92e1-4d9002cb4cf0",
       "data": {
-        "entity_name": "Less than 5 ka BP"
+        "entity_name": "Less than 5 ka BP",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "116b9b7e-a37a-47c5-9aad-341f6e2f7ff6",
       "data": {
-        "entity_name": "Dacitic Lava Dome"
+        "entity_name": "Dacitic Lava Dome",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "cbf2d64f-ba54-4afb-a873-3600fde5e4e0",
       "data": {
-        "entity_name": "Dacite / Rhyolite"
+        "entity_name": "Dacite / Rhyolite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -339,19 +381,22 @@
     {
       "id": "66c59670-5a2f-4be2-9adf-c3678036ebb6",
       "data": {
-        "entity_name": "131 ka, 107 ka - 31 ka"
+        "entity_name": "131 ka, 107 ka - 31 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "644f7962-6d2e-47f6-b090-be108f8fc325",
       "data": {
-        "entity_name": ""
+        "entity_name": "",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "787cc2e4-e661-4e95-945b-0bac5bc18161",
       "data": {
-        "entity_name": "Istituto Nazionale di Geofisica e Vulcanologia (INGV)"
+        "entity_name": "Istituto Nazionale di Geofisica e Vulcanologia (INGV)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -368,25 +413,29 @@
     {
       "id": "32520f69-c1e8-4bc0-b5c3-82a98af77d4d",
       "data": {
-        "entity_name": "Indonesia"
+        "entity_name": "Indonesia",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "da6dab1b-58be-419e-ac54-8a484a47488a",
       "data": {
-        "entity_name": "2019-2020"
+        "entity_name": "2019-2020",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "7a4854bc-5e58-4400-9307-c869e3227ea2",
       "data": {
-        "entity_name": "Basalt / Andesite"
+        "entity_name": "Basalt / Andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "1a502c7d-c313-43ef-abee-0d26591cc132",
       "data": {
-        "entity_name": "Lava / Tephra"
+        "entity_name": "Lava / Tephra",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -403,13 +452,15 @@
     {
       "id": "d8f1c1f1-d875-4489-92c4-9e87993e42c7",
       "data": {
-        "entity_name": "79 AD"
+        "entity_name": "79 AD",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "c0ee2b2c-4ac0-416b-aca8-3c42a5859a84",
       "data": {
-        "entity_name": "Andesite / Basaltic Andesite"
+        "entity_name": "Andesite / Basaltic Andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -426,19 +477,22 @@
     {
       "id": "6b122d85-7677-40c7-91b8-78317b0729d6",
       "data": {
-        "entity_name": "1888-1890"
+        "entity_name": "1888-1890",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "555207fa-ca5c-4bbe-8740-be12bfac7882",
       "data": {
-        "entity_name": "Istituto Nazionale di Geofisica e Vulcanologia"
+        "entity_name": "Istituto Nazionale di Geofisica e Vulcanologia",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "eb917735-e7cd-41cf-96cd-a5be1925d20a",
       "data": {
-        "entity_name": "Istituto Nazionale di Geofisica e Vulcanologia (INGV-OE)"
+        "entity_name": "Istituto Nazionale di Geofisica e Vulcanologia (INGV-OE)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -450,13 +504,15 @@
     {
       "id": "535b163b-534b-4067-aad3-6b637088b481",
       "data": {
-        "entity_name": "Northern Mariana Islands"
+        "entity_name": "Northern Mariana Islands",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "cf67c7f1-e3bd-4b3e-8632-1c1aa4dad468",
       "data": {
-        "entity_name": "Mariana Arc"
+        "entity_name": "Mariana Arc",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -470,37 +526,43 @@
     {
       "id": "18374495-8828-43b1-bae4-e4bf2a3c2324",
       "data": {
-        "entity_name": "USA"
+        "entity_name": "USA",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "1b315665-61d3-4fc2-8f07-c3fd98eb8024",
       "data": {
-        "entity_name": "Aleutian Islands"
+        "entity_name": "Aleutian Islands",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "21020ec3-afd7-4a84-9807-d9d55f664f23",
       "data": {
-        "entity_name": "Alaska Volcano Observatory"
+        "entity_name": "Alaska Volcano Observatory",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "3310c5c1-7d3b-4fc1-80b8-13eae2aa7760",
       "data": {
-        "entity_name": "2008, 2011, 2014, 2016"
+        "entity_name": "2008, 2011, 2014, 2016",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "992356c8-7fc5-487e-be61-03f1736492e3",
       "data": {
-        "entity_name": "Tholeiitic"
+        "entity_name": "Tholeiitic",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "5231a00d-a5c9-4448-8056-131e75bee3b4",
       "data": {
-        "entity_name": "Aleutian Arc"
+        "entity_name": "Aleutian Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -521,49 +583,57 @@
     {
       "id": "2aa10436-90b5-4de0-99cd-ce92651a94c2",
       "data": {
-        "entity_name": "Mariana Islands"
+        "entity_name": "Mariana Islands",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "ac09ef44-682c-4508-b957-bed2b19fdd12",
       "data": {
-        "entity_name": "Washington Volcanic Ash Advisory Center"
+        "entity_name": "Washington Volcanic Ash Advisory Center",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "48091d7e-1e4e-4ae9-9cb4-e9f5a6a4248f",
       "data": {
-        "entity_name": "Satellite Data Monitoring"
+        "entity_name": "Satellite Data Monitoring",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "b7e3b9de-bc6a-482e-82e4-f2f86a73860a",
       "data": {
-        "entity_name": "2003"
+        "entity_name": "2003",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "a38163c4-672e-45bd-89a9-2d1487370e31",
       "data": {
-        "entity_name": "Andesite"
+        "entity_name": "Andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "39a16994-5cc7-48b7-ac9d-c7af7181ac0c",
       "data": {
-        "entity_name": "Subduction zone"
+        "entity_name": "Subduction zone",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "69652bcc-9b94-4f99-aae4-d8ba74cb0a4b",
       "data": {
-        "entity_name": "Ash"
+        "entity_name": "Ash",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "265bc141-b608-4d7f-8786-d8d5f96d0e41",
       "data": {
-        "entity_name": "Island-arc volcano"
+        "entity_name": "Island-arc volcano",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -576,25 +646,29 @@
     {
       "id": "9c00d042-5b22-4c5e-8c9b-3a2de687aa93",
       "data": {
-        "entity_name": "North America"
+        "entity_name": "North America",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "9b535cf0-5b5d-42ec-8f49-3bed3a6e1f30",
       "data": {
-        "entity_name": "Alaska Volcanic Province"
+        "entity_name": "Alaska Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "de9c0bc4-5c57-4c05-b5f1-44b1a17a4441",
       "data": {
-        "entity_name": "1600s BCE"
+        "entity_name": "1600s BCE",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "1644444d-541d-46f8-a7dc-7d668c888a22",
       "data": {
-        "entity_name": "Dacite / Andesite"
+        "entity_name": "Dacite / Andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -606,25 +680,29 @@
     {
       "id": "9883250f-f90c-43e4-8b47-b9e91ff11e7d",
       "data": {
-        "entity_name": "Asal Rift"
+        "entity_name": "Asal Rift",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "df922311-6045-4669-9db3-6045728c40b0",
       "data": {
-        "entity_name": "1978"
+        "entity_name": "1978",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "7ba2d055-b994-4bad-8e0e-e5d46155455d",
       "data": {
-        "entity_name": "Tholeiitic basalt"
+        "entity_name": "Tholeiitic basalt",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "0739bfbb-21af-4119-913d-e5d6a140c492",
       "data": {
-        "entity_name": "Djibouti"
+        "entity_name": "Djibouti",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -640,13 +718,15 @@
     {
       "id": "eb6d600b-8fe3-49dd-8954-b6b40901b98f",
       "data": {
-        "entity_name": "2006"
+        "entity_name": "2006",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "c7e3da0f-582d-48ef-b615-561141348bc3",
       "data": {
-        "entity_name": "Subduction zone / Oceanic crust (<25 km)"
+        "entity_name": "Subduction zone / Oceanic crust (<25 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -663,43 +743,50 @@
     {
       "id": "d4fa9535-160e-4df2-bd35-499becec73af",
       "data": {
-        "entity_name": "Juan de Fuca Ridge"
+        "entity_name": "Juan de Fuca Ridge",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "1bb6e65c-aead-4885-b87d-93949a84d324",
       "data": {
-        "entity_name": "Basalt"
+        "entity_name": "Basalt",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "5f1e5865-2895-4c6e-a87b-e360f74f8c74",
       "data": {
-        "entity_name": "Active"
+        "entity_name": "Active",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "c40d8820-6a5c-4224-8f2b-38f06704beca",
       "data": {
-        "entity_name": "2015"
+        "entity_name": "2015",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "5712003e-a4fc-4c81-813e-c058fa2a366c",
       "data": {
-        "entity_name": "Ocean Observatories Initiative"
+        "entity_name": "Ocean Observatories Initiative",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "a2757f8b-0360-40ab-9131-1b02c151440c",
       "data": {
-        "entity_name": "Intersection of Juan de Fuca Ridge and Cobb-Eickelberg hot spot"
+        "entity_name": "Intersection of Juan de Fuca Ridge and Cobb-Eickelberg hot spot",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "a0959bef-d7f3-4f24-9f72-e4b2b9682f9f",
       "data": {
-        "entity_name": "Lava"
+        "entity_name": "Lava",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -712,25 +799,29 @@
     {
       "id": "080f8f9b-208d-4452-9df7-98cebc3babcd",
       "data": {
-        "entity_name": "Satellite observations"
+        "entity_name": "Satellite observations",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "a5884354-b472-468b-9b3c-1a5d4c1cd128",
       "data": {
-        "entity_name": "Australasia"
+        "entity_name": "Australasia",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "5269efc2-83f7-44e8-8d94-6fbacfe52ad9",
       "data": {
-        "entity_name": "Stratocone"
+        "entity_name": "Stratocone",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "fcf081a7-6a69-444c-8390-af7fbb7449ec",
       "data": {
-        "entity_name": "2005, 2012, 2016"
+        "entity_name": "2005, 2012, 2016",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -747,49 +838,57 @@
     {
       "id": "a9a9f859-558d-4268-a2cd-e08e75a20d11",
       "data": {
-        "entity_name": "Lava / Ignimbrites"
+        "entity_name": "Lava / Ignimbrites",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "dd8938dd-7d53-4959-be78-ca716d2e6193",
       "data": {
-        "entity_name": "Cameroon"
+        "entity_name": "Cameroon",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "eabdd4a9-8f61-401d-9d64-45d1b983c67a",
       "data": {
-        "entity_name": "African Volcanic Regions"
+        "entity_name": "African Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "efd8ae2f-a142-4123-be80-3b20b81eb385",
       "data": {
-        "entity_name": "Cameroon Volcanic Line"
+        "entity_name": "Cameroon Volcanic Line",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "ccadb7ff-bfd0-4017-b62f-221c3292f837",
       "data": {
-        "entity_name": "Natural hazards such as mass movements and volcanic eruptions"
+        "entity_name": "Natural hazards such as mass movements and volcanic eruptions",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "79366a04-4254-49ad-8a7f-eeb8cf188c8c",
       "data": {
-        "entity_name": "1909, 1922, 1959"
+        "entity_name": "1909, 1922, 1959",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "4c5e1671-d345-4709-832f-1e79756002f7",
       "data": {
-        "entity_name": "Tectonic Activity"
+        "entity_name": "Tectonic Activity",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "cb44fbbf-784a-4cd9-831d-4164a5faafb6",
       "data": {
-        "entity_name": "Anisotropy of Magnetic Susceptibility (ASM)"
+        "entity_name": "Anisotropy of Magnetic Susceptibility (ASM)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -801,7 +900,8 @@
     {
       "id": "b124cad3-3625-4440-b428-8addd4cc161e",
       "data": {
-        "entity_name": "South Sandwich archipelago"
+        "entity_name": "South Sandwich archipelago",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -813,7 +913,8 @@
     {
       "id": "ad0c63eb-a13d-4523-aba0-5b8e2b71e97b",
       "data": {
-        "entity_name": "Aleutian Volcanic Arc"
+        "entity_name": "Aleutian Volcanic Arc",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -826,13 +927,15 @@
     {
       "id": "b45627d1-c09d-4492-bb54-e5dca72e5dd5",
       "data": {
-        "entity_name": "Eruptive activity or suspect volcanic activity"
+        "entity_name": "Eruptive activity or suspect volcanic activity",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "b942784f-1db1-4738-9f80-6618e5750969",
       "data": {
-        "entity_name": "Acidic water / Sulfurous debris"
+        "entity_name": "Acidic water / Sulfurous debris",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -846,13 +949,15 @@
     {
       "id": "ad256e28-6392-4a1a-a072-54f92253a77d",
       "data": {
-        "entity_name": "Sidescan sonar, deep-tow camera system, submersible Alvin"
+        "entity_name": "Sidescan sonar, deep-tow camera system, submersible Alvin",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "ad811a3c-a410-44d1-aa98-027a64709c95",
       "data": {
-        "entity_name": "Mid‐1980s"
+        "entity_name": "Mid‐1980s",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -864,43 +969,50 @@
     {
       "id": "fa3161df-b674-496a-bbd8-55e16ab5eeed",
       "data": {
-        "entity_name": "Ethiopia"
+        "entity_name": "Ethiopia",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "641f7bbe-8f93-4815-a50b-4115dd025471",
       "data": {
-        "entity_name": "Afar Rift"
+        "entity_name": "Afar Rift",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "c13d78fe-e951-494d-b529-16eaf2976bc1",
       "data": {
-        "entity_name": "InSAR"
+        "entity_name": "InSAR",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "60946148-946f-4dea-9d56-74b6e4215444",
       "data": {
-        "entity_name": "2005"
+        "entity_name": "2005",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "22f463fd-f952-4ae7-b4fb-d7c9ba2fee48",
       "data": {
-        "entity_name": "Rift zone"
+        "entity_name": "Rift zone",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "cb96b26f-634c-4f60-a9c9-70b809702a69",
       "data": {
-        "entity_name": "Basaltic fissural eruption"
+        "entity_name": "Basaltic fissural eruption",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "42cc8873-9882-4303-a62e-82afeb802665",
       "data": {
-        "entity_name": "Main Ethiopian Rift"
+        "entity_name": "Main Ethiopian Rift",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -914,31 +1026,36 @@
     {
       "id": "b988ed35-f5f8-4981-8b4c-db48c16b5a1f",
       "data": {
-        "entity_name": "Danakil Depression"
+        "entity_name": "Danakil Depression",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "947818bf-0d1c-451a-8709-9a15644f12f2",
       "data": {
-        "entity_name": "Active rifting"
+        "entity_name": "Active rifting",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "af3dd64c-1469-4911-bebe-fdf8a4686698",
       "data": {
-        "entity_name": "Crater"
+        "entity_name": "Crater",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "a44d045e-3680-4729-919b-d75311721300",
       "data": {
-        "entity_name": "Hydrothermal activity"
+        "entity_name": "Hydrothermal activity",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "110818e7-fe87-461d-8c0e-233d4477ac47",
       "data": {
-        "entity_name": "Monthly satellite image monitoring"
+        "entity_name": "Monthly satellite image monitoring",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -950,7 +1067,8 @@
     {
       "id": "51999a4a-d511-452a-be1c-bd0d345c07ea",
       "data": {
-        "entity_name": "Apparent submarine eruption detected"
+        "entity_name": "Apparent submarine eruption detected",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -967,37 +1085,43 @@
     {
       "id": "3a768d91-3065-4927-83b0-35c57c97d277",
       "data": {
-        "entity_name": "Cape Verde"
+        "entity_name": "Cape Verde",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "52362845-3084-48e9-8faa-5e21f9db6439",
       "data": {
-        "entity_name": "Azores"
+        "entity_name": "Azores",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "e83e31bd-54fe-4af9-be79-a53171d9dc2a",
       "data": {
-        "entity_name": "2014–2015"
+        "entity_name": "2014–2015",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "b7f43acc-6678-485f-bc9b-2bf96389d1b3",
       "data": {
-        "entity_name": "Cape Verde Volcanic Province"
+        "entity_name": "Cape Verde Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "2195fb26-d28a-461b-aeba-d1a9727fd30d",
       "data": {
-        "entity_name": "Tectonic structure of the Terceira Rift"
+        "entity_name": "Tectonic structure of the Terceira Rift",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "6610f863-515b-47c6-bc01-d6e1b159d2c2",
       "data": {
-        "entity_name": "FCT - Fundação para a Ciência e Tecnologia"
+        "entity_name": "FCT - Fundação para a Ciência e Tecnologia",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -1010,13 +1134,15 @@
     {
       "id": "8b9d2b0a-3444-4c57-824c-84096fe47f31",
       "data": {
-        "entity_name": "Alaska"
+        "entity_name": "Alaska",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "baf9339c-958f-4057-b792-efe4adbf984a",
       "data": {
-        "entity_name": "Volcanic gas"
+        "entity_name": "Volcanic gas",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -1028,13 +1154,15 @@
     {
       "id": "bce1a238-a269-49bc-b978-e25c56472dfd",
       "data": {
-        "entity_name": "Central America Volcanic Front"
+        "entity_name": "Central America Volcanic Front",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "ca9c3088-9367-4795-9c7a-15536ea6ac76",
       "data": {
-        "entity_name": "May 11, 1946"
+        "entity_name": "May 11, 1946",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -1046,19 +1174,22 @@
     {
       "id": "d07a02fc-6f0a-4ee5-bfd1-8f6bd3d178e5",
       "data": {
-        "entity_name": "Southeast Asia"
+        "entity_name": "Southeast Asia",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "33b3f3ad-0349-47f9-abb3-f6f699918345",
       "data": {
-        "entity_name": "January 5, 2018"
+        "entity_name": "January 5, 2018",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "1313cdb3-efba-4034-909a-6e9be3c7c672",
       "data": {
-        "entity_name": "Satellite Imagery"
+        "entity_name": "Satellite Imagery",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -1075,31 +1206,36 @@
     {
       "id": "7d3efd74-cb4f-489b-b94f-3119520b30df",
       "data": {
-        "entity_name": "Collision zone of Honshu island and Izu-Mariana arc"
+        "entity_name": "Collision zone of Honshu island and Izu-Mariana arc",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "d24b4d34-a900-4982-9461-efa178fc7a47",
       "data": {
-        "entity_name": "Eruptive Activity Observed"
+        "entity_name": "Eruptive Activity Observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "d1489fbd-d8ce-4f9a-aec3-c5592f23b312",
       "data": {
-        "entity_name": "Andreanof Islands Group"
+        "entity_name": "Andreanof Islands Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "f4c4f4b6-2851-479f-b448-f742181d17f5",
       "data": {
-        "entity_name": "Cone-shaped"
+        "entity_name": "Cone-shaped",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "8b70db73-639e-4705-8e1a-cf68d5a09407",
       "data": {
-        "entity_name": "1791, 1827, 1829, 1904-1906, 1993-95"
+        "entity_name": "1791, 1827, 1829, 1904-1906, 1993-95",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -1112,31 +1248,36 @@
     {
       "id": "4a72f2af-4610-4939-af99-9a972a6cf028",
       "data": {
-        "entity_name": "Papua New Guinea"
+        "entity_name": "Papua New Guinea",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "42cd2dfa-ec0a-4ef9-bcd6-f3f6735c34dd",
       "data": {
-        "entity_name": "Caucasus"
+        "entity_name": "Caucasus",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "7419dafe-2d4c-45d8-a783-9a858009c2ba",
       "data": {
-        "entity_name": "Monogenetic volcanic field"
+        "entity_name": "Monogenetic volcanic field",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "9d508828-e7b5-4423-8b67-d073ab40b52a",
       "data": {
-        "entity_name": "7.4 ± 3.6 ka and 7.9 ± 2.9 ka to 353 ± 20 ka"
+        "entity_name": "7.4 ± 3.6 ka and 7.9 ± 2.9 ka to 353 ± 20 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "d5734609-e8cc-42b2-868b-3e1ab47c340d",
       "data": {
-        "entity_name": "Trachybasaltic andesite to trachyandesite"
+        "entity_name": "Trachybasaltic andesite to trachyandesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -1148,43 +1289,50 @@
     {
       "id": "35d753a0-23b8-499e-aa26-110a623ca058",
       "data": {
-        "entity_name": "Comoros"
+        "entity_name": "Comoros",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "6b2ddbb7-a92f-4bcc-9181-0a8c536abc13",
       "data": {
-        "entity_name": "Indian Ocean"
+        "entity_name": "Indian Ocean",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "a9f476e4-4d77-4a98-ba54-d14d02d2a328",
       "data": {
-        "entity_name": "Shield"
+        "entity_name": "Shield",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "5977c2e8-106a-4d5c-9fc3-0a75b048efe1",
       "data": {
-        "entity_name": "Basaltic Shield Volcano"
+        "entity_name": "Basaltic Shield Volcano",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "5b8d1a6d-9b43-4f03-85fa-f31c0c5bee47",
       "data": {
-        "entity_name": "Pyroclastics"
+        "entity_name": "Pyroclastics",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "6ac9c1b6-cd8b-4470-9386-7d2b28627d2f",
       "data": {
-        "entity_name": "Alkali basalts"
+        "entity_name": "Alkali basalts",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "289563e3-2a6e-4955-b3b5-b14dd9448dff",
       "data": {
-        "entity_name": "Electromagnetic Measurements"
+        "entity_name": "Electromagnetic Measurements",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -1201,19 +1349,22 @@
     {
       "id": "7e8868af-c2c0-4b01-bcd9-30e4ceb696e9",
       "data": {
-        "entity_name": "1912"
+        "entity_name": "1912",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "ffbb245a-15d1-48b2-aa0f-628a07d83ced",
       "data": {
-        "entity_name": "Alaska Peninsula Volcanic Province"
+        "entity_name": "Alaska Peninsula Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "24ad723b-dd04-450a-8c98-7ed9625cf8dc",
       "data": {
-        "entity_name": "Andesite / Dacite"
+        "entity_name": "Andesite / Dacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -1226,13 +1377,15 @@
     {
       "id": "e05dc2eb-8c89-4a69-9d69-55a6c00f94fe",
       "data": {
-        "entity_name": "Pacific Volcanic Regions"
+        "entity_name": "Pacific Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "09994871-9f71-4735-91b9-44874e125799",
       "data": {
-        "entity_name": "1982"
+        "entity_name": "1982",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -1248,37 +1401,43 @@
     {
       "id": "7fe66f4d-2dc1-41c8-8cd6-92a19f42df70",
       "data": {
-        "entity_name": "Hawaiian Islands"
+        "entity_name": "Hawaiian Islands",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "e7e2f334-59b9-4ac9-9e1a-318c4889bcd7",
       "data": {
-        "entity_name": "Shield Volcano"
+        "entity_name": "Shield Volcano",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "dd858450-9d21-4168-94b2-3108b3d45a5f",
       "data": {
-        "entity_name": "2018"
+        "entity_name": "2018",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "27422c0f-c9cd-4730-ac5d-321352e547ea",
       "data": {
-        "entity_name": "USGS"
+        "entity_name": "USGS",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "4a5051ad-9435-4ad2-9468-bc93168c88a9",
       "data": {
-        "entity_name": "Hawaiian Volcanic Province"
+        "entity_name": "Hawaiian Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "ae289ae1-dd3a-4f8e-a2bc-ed1ac7d9f100",
       "data": {
-        "entity_name": "Hotspot"
+        "entity_name": "Hotspot",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -1290,7 +1449,8 @@
     {
       "id": "ac97cd1d-8cef-4de1-8b97-95beb0921352",
       "data": {
-        "entity_name": "Alaska Peninsula"
+        "entity_name": "Alaska Peninsula",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -1303,19 +1463,22 @@
     {
       "id": "c48842c7-c561-4332-afe2-f0816d65a1f2",
       "data": {
-        "entity_name": "Southeastern Papua"
+        "entity_name": "Southeastern Papua",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "4f988527-823e-4612-840f-ca44722dd0e2",
       "data": {
-        "entity_name": "Northeast-dipping ophiolite sheet"
+        "entity_name": "Northeast-dipping ophiolite sheet",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "1754c20c-3dad-4bf5-9ccd-08d8c103b69e",
       "data": {
-        "entity_name": "Papuan Ultramafic Belt"
+        "entity_name": "Papuan Ultramafic Belt",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1327,7 +1490,8 @@
     {
       "id": "eb8192ae-0a1b-43ea-afe6-c46f541a9d51",
       "data": {
-        "entity_name": "Ongoing Eruptive Activity"
+        "entity_name": "Ongoing Eruptive Activity",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -1344,13 +1508,15 @@
     {
       "id": "ed4af9d8-a6ff-46f5-91c2-5b0787dde659",
       "data": {
-        "entity_name": "Cascade Volcanic Arc"
+        "entity_name": "Cascade Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "7c120cb7-4771-4551-9fc2-8735b4eb54cd",
       "data": {
-        "entity_name": "1915"
+        "entity_name": "1915",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -1365,19 +1531,22 @@
     {
       "id": "613c1b6a-8e08-4d9f-ac12-7f5a796eab61",
       "data": {
-        "entity_name": "1645"
+        "entity_name": "1645",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "61151982-2463-4c16-ac18-5801a2634265",
       "data": {
-        "entity_name": "Tholeiitic tendencies"
+        "entity_name": "Tholeiitic tendencies",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "9b794c90-8053-44ce-9dcb-195dc6245841",
       "data": {
-        "entity_name": "Bismarck Volcanic Arc"
+        "entity_name": "Bismarck Volcanic Arc",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -1390,13 +1559,15 @@
     {
       "id": "6ba05d02-37bd-48bd-88e8-d94c1cd336e4",
       "data": {
-        "entity_name": "30 January 1995"
+        "entity_name": "30 January 1995",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "483986af-80c5-413c-b110-0cb59d33f07f",
       "data": {
-        "entity_name": "Dacitic to Andesitic"
+        "entity_name": "Dacitic to Andesitic",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -1411,31 +1582,36 @@
     {
       "id": "31bfab24-3f09-49ad-8da6-78aceb9ce73c",
       "data": {
-        "entity_name": "New Guinea Volcanic Province"
+        "entity_name": "New Guinea Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "dd955178-8ee2-44b0-bc98-c6d686792966",
       "data": {
-        "entity_name": "Subduction zone / Oceanic crust"
+        "entity_name": "Subduction zone / Oceanic crust",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "9588dbc7-e8b4-4001-a949-b41ac8573726",
       "data": {
-        "entity_name": "Ash / Lava"
+        "entity_name": "Ash / Lava",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "6276d76b-f108-4356-bae2-66bb44bc212e",
       "data": {
-        "entity_name": "Rabaul Volcanological Observatory"
+        "entity_name": "Rabaul Volcanological Observatory",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "302413d1-55bc-49a9-802a-3eb7bd17658d",
       "data": {
-        "entity_name": "January 2005"
+        "entity_name": "January 2005",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -1447,7 +1623,8 @@
     {
       "id": "a19fdc49-9565-4f6a-87ad-f295553c55e8",
       "data": {
-        "entity_name": "Afar"
+        "entity_name": "Afar",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -1459,7 +1636,8 @@
     {
       "id": "cbbf0307-8199-4b0c-9396-4694002ac369",
       "data": {
-        "entity_name": "Basalts / Trachytes"
+        "entity_name": "Basalts / Trachytes",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -1473,19 +1651,22 @@
     {
       "id": "39bed7cf-f654-492e-96c4-d87e6e32e9f0",
       "data": {
-        "entity_name": "Submarine Volcano"
+        "entity_name": "Submarine Volcano",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "c3b251a3-8591-4be6-9c85-10c25326bc9a",
       "data": {
-        "entity_name": "1980"
+        "entity_name": "1980",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "62f07303-5cdd-414b-adde-5287297c2260",
       "data": {
-        "entity_name": "Gray lava / Black lava"
+        "entity_name": "Gray lava / Black lava",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -1502,19 +1683,22 @@
     {
       "id": "59be2dc4-9d6b-4d44-a3f3-2baf7e600a0c",
       "data": {
-        "entity_name": "Martinique"
+        "entity_name": "Martinique",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "3a9f575b-433d-43b8-9ffd-c38bca9407b7",
       "data": {
-        "entity_name": "1902"
+        "entity_name": "1902",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "1d7cd332-a0b4-46c2-aa82-518eae7980c9",
       "data": {
-        "entity_name": "Lesser Antilles"
+        "entity_name": "Lesser Antilles",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -1530,7 +1714,8 @@
     {
       "id": "e16fbf8a-6eab-4c9c-bba7-5ba03ca38504",
       "data": {
-        "entity_name": "1984"
+        "entity_name": "1984",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -1543,19 +1728,22 @@
     {
       "id": "b9fd3b33-a514-4d9b-b6ca-8a45f9083acf",
       "data": {
-        "entity_name": "Kerguelen Plateau"
+        "entity_name": "Kerguelen Plateau",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "88db62a2-72d2-48a7-9905-be419e5cb00a",
       "data": {
-        "entity_name": "Younger activity (5 Ma to present)"
+        "entity_name": "Younger activity (5 Ma to present)",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "1201e348-7b03-4201-adff-3214b95615fc",
       "data": {
-        "entity_name": "Basanite / Basalt / Trachybasalt"
+        "entity_name": "Basanite / Basalt / Trachybasalt",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -1572,25 +1760,29 @@
     {
       "id": "6fbdf447-baab-43b0-8cce-da092dd85bad",
       "data": {
-        "entity_name": "2010"
+        "entity_name": "2010",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "35471f4b-69e6-428c-9872-7be3c496d5d6",
       "data": {
-        "entity_name": "Southeast Asian Volcanic Regions"
+        "entity_name": "Southeast Asian Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "cd008c37-f78d-4629-a3a7-f5a751ced0cb",
       "data": {
-        "entity_name": "Java Volcanic Province"
+        "entity_name": "Java Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "3a725b53-8469-451d-86ca-91f5e64a94e5",
       "data": {
-        "entity_name": "Tanzania Volcano Monitoring Agency"
+        "entity_name": "Tanzania Volcano Monitoring Agency",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -1602,31 +1794,36 @@
     {
       "id": "ed96034f-12a2-4944-9181-16e4f24d28aa",
       "data": {
-        "entity_name": "Central America"
+        "entity_name": "Central America",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "27eb874a-50cd-46e4-b204-bc6614a03d86",
       "data": {
-        "entity_name": "Subduction"
+        "entity_name": "Subduction",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "1c58e241-05b9-4a27-a382-54afb975bf24",
       "data": {
-        "entity_name": "1905"
+        "entity_name": "1905",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "42f89e16-7407-4c6d-a241-0a5b4e987b2e",
       "data": {
-        "entity_name": "Gas Sampling"
+        "entity_name": "Gas Sampling",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "789bc03b-2919-4517-9b44-271bd88b49af",
       "data": {
-        "entity_name": "Basaltic-andesite"
+        "entity_name": "Basaltic-andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -1638,7 +1835,8 @@
     {
       "id": "5a57642d-84ae-4e62-8bd7-ca4f6302aea4",
       "data": {
-        "entity_name": "South-Central Pacific Ocean"
+        "entity_name": "South-Central Pacific Ocean",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -1651,49 +1849,57 @@
     {
       "id": "69fad16e-b803-4e8a-a2a2-abc4f660614a",
       "data": {
-        "entity_name": "2011"
+        "entity_name": "2011",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "4e92f7f4-bfce-4b68-8551-90a8db6917fb",
       "data": {
-        "entity_name": "Eritrea"
+        "entity_name": "Eritrea",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "0ba2bf35-ffdf-4372-9232-553cb6ec5390",
       "data": {
-        "entity_name": "East African Rift System"
+        "entity_name": "East African Rift System",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "f0c853b3-2d51-4e44-b561-d61ed0118846",
       "data": {
-        "entity_name": "Off-rift volcano"
+        "entity_name": "Off-rift volcano",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "11ae7be6-1704-426a-a70e-fb696a93f2de",
       "data": {
-        "entity_name": "Trachybasaltic / Trachybasaltic andesite"
+        "entity_name": "Trachybasaltic / Trachybasaltic andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "00adf07a-202a-4094-af50-dccad8442669",
       "data": {
-        "entity_name": "Lavas / Tephra"
+        "entity_name": "Lavas / Tephra",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "9f957ef6-6b93-49bf-ba1d-f9c84a308a8f",
       "data": {
-        "entity_name": "Satellite-based techniques (InSAR)"
+        "entity_name": "Satellite-based techniques (InSAR)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "c9906827-0d25-4b37-8813-a72acea02fd2",
       "data": {
-        "entity_name": "Rifting"
+        "entity_name": "Rifting",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -1708,7 +1914,8 @@
     {
       "id": "1932aa9e-96eb-4fca-b7f1-43177fcffff9",
       "data": {
-        "entity_name": "Rhyolite / Dacite / Andesite"
+        "entity_name": "Rhyolite / Dacite / Andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -1722,13 +1929,15 @@
     {
       "id": "abf55510-37f2-465f-896a-9e9c71441669",
       "data": {
-        "entity_name": "2008"
+        "entity_name": "2008",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "c2cfec0a-439c-4e4a-a8c2-915a86d42adf",
       "data": {
-        "entity_name": "North American Volcanic Regions"
+        "entity_name": "North American Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -1743,31 +1952,36 @@
     {
       "id": "8cdc0c9c-9d07-4db3-8348-d93a2e2e97de",
       "data": {
-        "entity_name": "BPLS"
+        "entity_name": "BPLS",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "d7c93b69-162e-4c4f-93dd-5c304f8fb5a7",
       "data": {
-        "entity_name": "Basanite / Alkali basalt / Trachyte / Rhyolite"
+        "entity_name": "Basanite / Alkali basalt / Trachyte / Rhyolite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "40703d5d-7d71-4bd5-9bd3-5ba14d5a933d",
       "data": {
-        "entity_name": "Tuff"
+        "entity_name": "Tuff",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "9131dd6a-312b-4055-b901-66c3ea8ea4e8",
       "data": {
-        "entity_name": "1986"
+        "entity_name": "1986",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "0c2e2176-a727-4eb2-b5f6-b34a331e34a5",
       "data": {
-        "entity_name": "Geochemical analysis"
+        "entity_name": "Geochemical analysis",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -1783,7 +1997,8 @@
     {
       "id": "e25cba39-1721-492c-8ce0-051f09615b39",
       "data": {
-        "entity_name": "2016"
+        "entity_name": "2016",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -1798,19 +2013,22 @@
     {
       "id": "eee9aa9a-019b-45e7-bec6-11fd1f41ef04",
       "data": {
-        "entity_name": "1994"
+        "entity_name": "1994",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "337f6641-953b-4f6d-b3c5-c10c8193577f",
       "data": {
-        "entity_name": "East New Britain Province"
+        "entity_name": "East New Britain Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "0a2d515e-d5de-4629-b632-6d659ec1927a",
       "data": {
-        "entity_name": "Andesitic Caldera"
+        "entity_name": "Andesitic Caldera",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -1823,25 +2041,29 @@
     {
       "id": "ded532da-824a-4553-a9d9-fe3ccc66252f",
       "data": {
-        "entity_name": "Kermadec arc"
+        "entity_name": "Kermadec arc",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "6d9f6f2e-3450-4c22-9d4a-3b1e4f1d86ab",
       "data": {
-        "entity_name": "Gabbro, Tonalite"
+        "entity_name": "Gabbro, Tonalite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "e9263341-7f39-4b2f-96e0-55898829da79",
       "data": {
-        "entity_name": "Kermadec Arc"
+        "entity_name": "Kermadec Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "0957478a-1eaf-4fe1-b89a-1ec20ece4abd",
       "data": {
-        "entity_name": "Subduction-related volcanism"
+        "entity_name": "Subduction-related volcanism",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -1856,7 +2078,8 @@
     {
       "id": "23ef4e70-4eeb-400e-bbee-1cf65e1fa344",
       "data": {
-        "entity_name": "2009"
+        "entity_name": "2009",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -1875,13 +2098,15 @@
     {
       "id": "d9cc7611-71ca-4ec7-ba43-1d3dcf904028",
       "data": {
-        "entity_name": "Central Pacific"
+        "entity_name": "Central Pacific",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "074ebb5b-6e72-46ab-9ce7-4c635294cf88",
       "data": {
-        "entity_name": "Seismicity attributed to submarine extrusive volcanism"
+        "entity_name": "Seismicity attributed to submarine extrusive volcanism",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -1897,19 +2122,22 @@
     {
       "id": "5925e48e-63e2-49b6-8497-d55a5d5140e4",
       "data": {
-        "entity_name": "Taupo Volcanic Zone"
+        "entity_name": "Taupo Volcanic Zone",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "1d5495ac-6222-459e-a56b-b8ad9715de27",
       "data": {
-        "entity_name": "1995"
+        "entity_name": "1995",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "6aa105b2-db0b-4937-bfb2-fca7342c1380",
       "data": {
-        "entity_name": "GNS Science"
+        "entity_name": "GNS Science",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -1922,25 +2150,29 @@
     {
       "id": "60858090-9f33-4b3a-917a-9fd7eaad390d",
       "data": {
-        "entity_name": "South America"
+        "entity_name": "South America",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "4d3647be-962a-4221-986d-39be931e9780",
       "data": {
-        "entity_name": "Remote Observation, UV and TIR Cameras"
+        "entity_name": "Remote Observation, UV and TIR Cameras",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "dbc2489e-c84c-4924-9cb2-f609ce19fc92",
       "data": {
-        "entity_name": "Central Volcanic Zone"
+        "entity_name": "Central Volcanic Zone",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "1de71608-4088-4b3a-b043-fb2f36ca13b4",
       "data": {
-        "entity_name": "Instituto Geofísico del Perú (IGP)"
+        "entity_name": "Instituto Geofísico del Perú (IGP)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -1955,43 +2187,50 @@
     {
       "id": "5ef9232d-3992-49d5-b86f-58a6df0c3280",
       "data": {
-        "entity_name": "El Salvador"
+        "entity_name": "El Salvador",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "0cf71905-865e-45f1-b52d-ef1b13c42d3c",
       "data": {
-        "entity_name": "Central American Volcanic Arc"
+        "entity_name": "Central American Volcanic Arc",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "ee88c25a-b5b8-4270-a8f0-580e628de348",
       "data": {
-        "entity_name": "El Salvador Volcanic Cordillera"
+        "entity_name": "El Salvador Volcanic Cordillera",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "4eafeb19-a1b8-4658-956d-3bcea2cef57f",
       "data": {
-        "entity_name": "At least 28 times in the past 430 years"
+        "entity_name": "At least 28 times in the past 430 years",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "dccd57d8-f158-4b21-b517-bc5287c12592",
       "data": {
-        "entity_name": "OA-MARN"
+        "entity_name": "OA-MARN",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "cdd27cda-443f-4f68-9106-345171f02e63",
       "data": {
-        "entity_name": "Extensional environment"
+        "entity_name": "Extensional environment",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "9756a76c-a064-4bee-88da-49791aa33eb2",
       "data": {
-        "entity_name": "Rhyolite"
+        "entity_name": "Rhyolite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -2006,19 +2245,22 @@
     {
       "id": "f6c4f799-0c6a-4de6-b88b-4456a09bbf0d",
       "data": {
-        "entity_name": "Diffuse gas survey"
+        "entity_name": "Diffuse gas survey",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "eaa06e7f-9334-4892-aeea-cf312837acf7",
       "data": {
-        "entity_name": "Fluviatile pumice"
+        "entity_name": "Fluviatile pumice",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "509b7720-b318-491f-8079-a96a436d3cce",
       "data": {
-        "entity_name": "1.785 ± 0.01 Ma BP, 1.56 ± 0.01 Ma BP, ~1.34 Ma BP"
+        "entity_name": "1.785 ± 0.01 Ma BP, 1.56 ± 0.01 Ma BP, ~1.34 Ma BP",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -2031,25 +2273,29 @@
     {
       "id": "e8dca35e-f078-4e0a-b952-655f0c02f041",
       "data": {
-        "entity_name": "Thermal Infrared Imaging"
+        "entity_name": "Thermal Infrared Imaging",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "c8b4d399-9760-470f-a25b-e358eb5abc9a",
       "data": {
-        "entity_name": "Trachyte / Dacite"
+        "entity_name": "Trachyte / Dacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "7475197d-fb28-4c91-aed1-131499a818c4",
       "data": {
-        "entity_name": "NOVAC"
+        "entity_name": "NOVAC",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "cb71ca6d-fc9e-43d9-9c74-cb1dd0e4766b",
       "data": {
-        "entity_name": "Basaltic volcanic field"
+        "entity_name": "Basaltic volcanic field",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -2068,7 +2314,8 @@
     {
       "id": "3e661ee6-cf08-4a0d-be47-1680affe110a",
       "data": {
-        "entity_name": "Marianas Arc"
+        "entity_name": "Marianas Arc",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -2083,19 +2330,22 @@
     {
       "id": "c1df8a3e-781d-41cd-b964-9360b9b8f714",
       "data": {
-        "entity_name": "1992"
+        "entity_name": "1992",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "7848b84d-19a3-44e4-bdcd-89867817e8e9",
       "data": {
-        "entity_name": "Basaltic or Andesitic"
+        "entity_name": "Basaltic or Andesitic",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "d7c76493-7bc0-4a14-9bee-543a128baec0",
       "data": {
-        "entity_name": "Intrusive or protovolcanic segment of the Aleutian arc"
+        "entity_name": "Intrusive or protovolcanic segment of the Aleutian arc",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -2111,25 +2361,29 @@
     {
       "id": "e2ec6aa9-7884-402f-aab6-3cc48581b7e0",
       "data": {
-        "entity_name": "Cascade Range"
+        "entity_name": "Cascade Range",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "7bfdd819-e943-4c4f-9cfa-4ecef21bcc3c",
       "data": {
-        "entity_name": "Dacite"
+        "entity_name": "Dacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "6ed8897c-ec2b-4cac-931e-337c0e52e8b5",
       "data": {
-        "entity_name": "U.S. Geological Survey"
+        "entity_name": "U.S. Geological Survey",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "e3f46e1b-e751-4f64-9957-93c317e68fef",
       "data": {
-        "entity_name": "Cascade Volcanic Province"
+        "entity_name": "Cascade Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2148,37 +2402,43 @@
     {
       "id": "e4529fbb-19c6-4194-af61-67f54cde8999",
       "data": {
-        "entity_name": "South Pacific"
+        "entity_name": "South Pacific",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "bd110bbe-2f73-43bc-a4bd-a9d16dbc4ddb",
       "data": {
-        "entity_name": "Submarine volcano"
+        "entity_name": "Submarine volcano",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "e058d21f-4391-4102-9148-49dee2003b6a",
       "data": {
-        "entity_name": "Alkalic basalt / Trachyte"
+        "entity_name": "Alkalic basalt / Trachyte",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "5339f1f2-82c1-4f9b-9aa2-c83f32e15d7a",
       "data": {
-        "entity_name": "Volcanic Ash"
+        "entity_name": "Volcanic Ash",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "8bc01ecb-e292-4a4f-ad9e-150a2447c65e",
       "data": {
-        "entity_name": "Conical"
+        "entity_name": "Conical",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "aa8bc77b-04e7-4579-ba5a-953dd819a8c8",
       "data": {
-        "entity_name": "Hydromagmatic eruptions observed"
+        "entity_name": "Hydromagmatic eruptions observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -2192,13 +2452,15 @@
     {
       "id": "df0c636b-80e6-4738-901b-be660b3d423e",
       "data": {
-        "entity_name": "Nicaraguan Volcanic Province"
+        "entity_name": "Nicaraguan Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "e3d44b56-6533-43ef-9806-c17cb9d08058",
       "data": {
-        "entity_name": "Nicaragua Institute of Territorial Studies"
+        "entity_name": "Nicaragua Institute of Territorial Studies",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -2215,37 +2477,43 @@
     {
       "id": "49d14871-d982-4aa0-b970-a0cae92d244a",
       "data": {
-        "entity_name": "Spain"
+        "entity_name": "Spain",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "a57d2d4b-300c-452f-95ce-9292e58ba852",
       "data": {
-        "entity_name": "Phonolite"
+        "entity_name": "Phonolite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "911e655c-416e-44df-8883-b6bef5fa8198",
       "data": {
-        "entity_name": "Pyroclastic"
+        "entity_name": "Pyroclastic",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "56b4ef5a-5871-4c4a-a7f0-ceaa13392729",
       "data": {
-        "entity_name": "Canary Islands"
+        "entity_name": "Canary Islands",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "3f6ce88f-eed3-4978-a311-1f424e6292cc",
       "data": {
-        "entity_name": "1000 years ago"
+        "entity_name": "1000 years ago",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "8a214817-1949-4231-8e44-f4c48f382a70",
       "data": {
-        "entity_name": "Instituto Volcanológico de Canarias (INVOLCAN)"
+        "entity_name": "Instituto Volcanológico de Canarias (INVOLCAN)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -2257,25 +2525,29 @@
     {
       "id": "8588506b-3dc5-4195-ac18-b51fa5ada65a",
       "data": {
-        "entity_name": "Pacific Ocean"
+        "entity_name": "Pacific Ocean",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "ade8f64f-0773-43f6-8e8d-10eebf577587",
       "data": {
-        "entity_name": "Active volcanic island"
+        "entity_name": "Active volcanic island",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "d560b570-47fd-49b0-af0f-0ab5acff63ba",
       "data": {
-        "entity_name": "Dacites"
+        "entity_name": "Dacites",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "bc9bd0df-e061-49a7-952c-eb7ee4fab02c",
       "data": {
-        "entity_name": "Solomon Island"
+        "entity_name": "Solomon Island",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -2292,7 +2564,8 @@
     {
       "id": "2493ebca-3a38-4d28-b017-7ea6ae35bf3d",
       "data": {
-        "entity_name": "2012"
+        "entity_name": "2012",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -2306,19 +2579,22 @@
     {
       "id": "e50fc2a9-5454-4d0f-ad41-388b891381c1",
       "data": {
-        "entity_name": "Peru"
+        "entity_name": "Peru",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "dafbcf14-304f-4bd5-962d-be7de982f0c1",
       "data": {
-        "entity_name": "Tephra / Ash"
+        "entity_name": "Tephra / Ash",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "0b0c30f6-ca46-42f6-9290-92447387ce82",
       "data": {
-        "entity_name": "Geophysical Institute of Peru"
+        "entity_name": "Geophysical Institute of Peru",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -2332,7 +2608,8 @@
     {
       "id": "2a5da23f-a513-4ee8-b29e-87d0f7362e3d",
       "data": {
-        "entity_name": "2019"
+        "entity_name": "2019",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -2346,13 +2623,15 @@
     {
       "id": "5c04d808-1256-4b78-8c1c-e42813382349",
       "data": {
-        "entity_name": "Cinder cone"
+        "entity_name": "Cinder cone",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "65264645-6186-4095-a06b-cf5891e6bb5c",
       "data": {
-        "entity_name": "Tholeiitic basalt through dacite"
+        "entity_name": "Tholeiitic basalt through dacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -2365,7 +2644,8 @@
     {
       "id": "44a6f15c-1cd8-44d7-a5fd-00662d7d6020",
       "data": {
-        "entity_name": "Calc-alkaline"
+        "entity_name": "Calc-alkaline",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -2379,7 +2659,8 @@
     {
       "id": "716bb367-a736-4d8d-8176-af4d08dc9c5b",
       "data": {
-        "entity_name": "1991-1992"
+        "entity_name": "1991-1992",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -2394,19 +2675,22 @@
     {
       "id": "c4e5ba18-8ed2-47ec-8865-86db4597f629",
       "data": {
-        "entity_name": "Wrangellia"
+        "entity_name": "Wrangellia",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "6b907b26-b124-4454-895a-78a61cb44dd5",
       "data": {
-        "entity_name": "Increased volcanic heating since 1964"
+        "entity_name": "Increased volcanic heating since 1964",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "7b39ab74-3233-4728-8413-1eb6af02baac",
       "data": {
-        "entity_name": "233–225 Ma"
+        "entity_name": "233–225 Ma",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -2418,13 +2702,15 @@
     {
       "id": "611dce77-baf5-4850-9543-0c4654e60f59",
       "data": {
-        "entity_name": "Andes"
+        "entity_name": "Andes",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "03064cf9-6021-46d1-bc78-3e3d57ede06e",
       "data": {
-        "entity_name": "Basaltic-andesites to dacites"
+        "entity_name": "Basaltic-andesites to dacites",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -2440,7 +2726,8 @@
     {
       "id": "6d67be27-55aa-447d-ae3d-7040963c12da",
       "data": {
-        "entity_name": "Andesite / Basalt"
+        "entity_name": "Andesite / Basalt",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -2452,25 +2739,29 @@
     {
       "id": "d63e1b89-c359-4395-9bc2-42dc4c854e01",
       "data": {
-        "entity_name": "Dissected Volcano"
+        "entity_name": "Dissected Volcano",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "da52a0cb-0225-4cf0-bb18-2abded9c586d",
       "data": {
-        "entity_name": "Tigrai"
+        "entity_name": "Tigrai",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "a720ddf8-c7c9-4c0e-857b-013fed70124e",
       "data": {
-        "entity_name": "Calc-alkaline metavolcanics"
+        "entity_name": "Calc-alkaline metavolcanics",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "912ada60-425c-4564-81cf-6346b0782941",
       "data": {
-        "entity_name": "Supra-subduction zone"
+        "entity_name": "Supra-subduction zone",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -2493,13 +2784,15 @@
     {
       "id": "9ed7e636-88ca-45f8-a082-6e6bf2415536",
       "data": {
-        "entity_name": "East African Rift"
+        "entity_name": "East African Rift",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "8c0b0c75-33c0-46f5-9a4c-d82cd179e5ea",
       "data": {
-        "entity_name": "Eritrean Geological Survey"
+        "entity_name": "Eritrean Geological Survey",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -2512,25 +2805,29 @@
     {
       "id": "e72ad8bb-af68-4691-973c-8ab1a6de6536",
       "data": {
-        "entity_name": "Bismarck Archipelago"
+        "entity_name": "Bismarck Archipelago",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "87c2adf4-39f1-4deb-9f64-e71e32a57dd6",
       "data": {
-        "entity_name": "Feni Group"
+        "entity_name": "Feni Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "5a35cf18-088a-468c-8707-2110d2fc8a93",
       "data": {
-        "entity_name": "Explosive and effusive volcanic activity observed"
+        "entity_name": "Explosive and effusive volcanic activity observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "ddbd9102-75ee-42c1-9721-25920b349e7b",
       "data": {
-        "entity_name": "Mafic–intermediate lavas / Trachyte"
+        "entity_name": "Mafic–intermediate lavas / Trachyte",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -2550,37 +2847,43 @@
     {
       "id": "48233361-7e17-4cbb-b703-a8f644b69639",
       "data": {
-        "entity_name": "Turkey"
+        "entity_name": "Turkey",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "c27c3c06-db64-4882-a903-11a869dd7e54",
       "data": {
-        "entity_name": "Turkish–Iranian high plateau"
+        "entity_name": "Turkish–Iranian high plateau",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "30f6023a-285c-43af-bf47-6569e33de091",
       "data": {
-        "entity_name": "1840"
+        "entity_name": "1840",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "ae38bdae-9efa-4792-9b90-354b10e2ac41",
       "data": {
-        "entity_name": "Compound stratovolcano"
+        "entity_name": "Compound stratovolcano",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "4aaf4456-8d42-4e76-97e4-317ede923a63",
       "data": {
-        "entity_name": "Subalkaline"
+        "entity_name": "Subalkaline",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "78fef7a4-0311-4132-94c3-412b497d5687",
       "data": {
-        "entity_name": "Collision zone"
+        "entity_name": "Collision zone",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -2597,7 +2900,8 @@
     {
       "id": "c450d924-6160-4724-9167-5eb149f9b935",
       "data": {
-        "entity_name": "1975, probably 19th century"
+        "entity_name": "1975, probably 19th century",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -2616,13 +2920,15 @@
     {
       "id": "faf1506f-b0aa-4e37-a99f-ea89473bb17d",
       "data": {
-        "entity_name": "Ring-complex"
+        "entity_name": "Ring-complex",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "326052eb-a57d-4f24-9c80-9bd935fd27bb",
       "data": {
-        "entity_name": "Syenite and Granite"
+        "entity_name": "Syenite and Granite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -2639,7 +2945,8 @@
     {
       "id": "5dfdf65b-065d-4f80-99c4-cab0da3a5d49",
       "data": {
-        "entity_name": "Magnetic Method"
+        "entity_name": "Magnetic Method",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -2663,31 +2970,36 @@
     {
       "id": "68c9e6c9-6339-4e45-8b21-6b9345f71393",
       "data": {
-        "entity_name": "Trachyte / Basalt"
+        "entity_name": "Trachyte / Basalt",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "a920e2e7-cd61-41c5-8d6a-e7327b597486",
       "data": {
-        "entity_name": "~ 13,300 ± 500 BP"
+        "entity_name": "~ 13,300 ± 500 BP",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "6d18be01-55b0-4a06-a808-14013f88695c",
       "data": {
-        "entity_name": "Mogollon-Datil volcanic province"
+        "entity_name": "Mogollon-Datil volcanic province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "cfba322f-94a2-4797-be57-318dacc73e10",
       "data": {
-        "entity_name": "Volcanic Cone"
+        "entity_name": "Volcanic Cone",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "36290909-210f-4f74-b165-bdc28fbefc93",
       "data": {
-        "entity_name": "U.S. Geological Survey (USGS)"
+        "entity_name": "U.S. Geological Survey (USGS)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -2699,7 +3011,8 @@
     {
       "id": "a86cfe0a-b566-40ef-9163-6f8af8a1d816",
       "data": {
-        "entity_name": "Cascades"
+        "entity_name": "Cascades",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -2713,37 +3026,43 @@
     {
       "id": "57d41bc3-01cb-4a5e-8263-26ad4cc0c5be",
       "data": {
-        "entity_name": "Andesite, volcaniclastic rocks, dacite, dacitic tuff, volcanic sandstone"
+        "entity_name": "Andesite, volcaniclastic rocks, dacite, dacitic tuff, volcanic sandstone",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "3c5a7dfa-6314-4a9c-b813-2db0cb9ce2e1",
       "data": {
-        "entity_name": "Laos"
+        "entity_name": "Laos",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "4fd49ea2-9b64-4ded-a194-f5fc21cded7a",
       "data": {
-        "entity_name": "Graben caldera"
+        "entity_name": "Graben caldera",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "68986d3d-2aa5-48c9-a9c7-183d80d08a06",
       "data": {
-        "entity_name": "25.37 ± 0.36 Ma"
+        "entity_name": "25.37 ± 0.36 Ma",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "12295b01-36a2-4597-ad33-eb2c149bda36",
       "data": {
-        "entity_name": "Pure extension to strike-slip transtension"
+        "entity_name": "Pure extension to strike-slip transtension",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "8d92a37b-1660-478c-a5fd-5ba08f32aced",
       "data": {
-        "entity_name": "Ignimbrite / Lava"
+        "entity_name": "Ignimbrite / Lava",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -2758,31 +3077,36 @@
     {
       "id": "bd78448f-e593-4976-9b79-c584bc314d56",
       "data": {
-        "entity_name": "Earthquakes observed"
+        "entity_name": "Earthquakes observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "64bd878e-3af1-4979-ba47-1177b380bcf6",
       "data": {
-        "entity_name": "Volcanic Field"
+        "entity_name": "Volcanic Field",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "0efa0029-5334-4332-ad0d-0419ecad0429",
       "data": {
-        "entity_name": "0.25 Ma ago"
+        "entity_name": "0.25 Ma ago",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "386a843d-cb17-4fbc-9365-c827d1bf52b4",
       "data": {
-        "entity_name": "Phonolitic"
+        "entity_name": "Phonolitic",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "fbb079b0-4381-4a4e-b2fe-933f44c4af51",
       "data": {
-        "entity_name": "Block and ash flow, surge, pyroclastic fall deposits, lava domes, coulées"
+        "entity_name": "Block and ash flow, surge, pyroclastic fall deposits, lava domes, coulées",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -2795,13 +3119,15 @@
     {
       "id": "7f14e3f0-b6ca-44f0-9e54-276920ba6b85",
       "data": {
-        "entity_name": "2350 years BP"
+        "entity_name": "2350 years BP",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "57cb0ab5-42b3-4290-83ea-fe3f529a034c",
       "data": {
-        "entity_name": "Garibaldi Volcanic Belt"
+        "entity_name": "Garibaldi Volcanic Belt",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2813,25 +3139,29 @@
     {
       "id": "1b2eb352-58a9-48af-bd6f-d78408dd7806",
       "data": {
-        "entity_name": "Central Africa"
+        "entity_name": "Central Africa",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "8449afb4-ebb6-43e7-9f60-31c690a65be7",
       "data": {
-        "entity_name": "Birunga field"
+        "entity_name": "Birunga field",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "ef7e2a73-77c7-4ec1-bcce-10dace4cd543",
       "data": {
-        "entity_name": "Uganda"
+        "entity_name": "Uganda",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "6195f7e9-b2dd-4fd9-8f7d-c2fce2c8b621",
       "data": {
-        "entity_name": "Basalts (including basanites, leucitites, olivine basalts, trachytes, tephrites, trachyandesites, and andesites)"
+        "entity_name": "Basalts (including basanites, leucitites, olivine basalts, trachytes, tephrites, trachyandesites, and andesites)",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -2843,7 +3173,8 @@
     {
       "id": "cf004b81-cbd2-4a56-a0db-47a6249b6aeb",
       "data": {
-        "entity_name": "Alaska Range"
+        "entity_name": "Alaska Range",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -2857,19 +3188,22 @@
     {
       "id": "048696f6-b022-4a0b-9d24-f82ab61947a0",
       "data": {
-        "entity_name": "Churchill Province"
+        "entity_name": "Churchill Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "e283b106-63e4-407c-80a8-1f86da2cb0e7",
       "data": {
-        "entity_name": "Volcanic ash"
+        "entity_name": "Volcanic ash",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "7cc8ec7a-2e6c-490d-8cd2-5f41c976da4a",
       "data": {
-        "entity_name": "852/3 CE"
+        "entity_name": "852/3 CE",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -2882,43 +3216,50 @@
     {
       "id": "23d4bfcd-ba85-4300-b2d2-457edb19986d",
       "data": {
-        "entity_name": "East Africa"
+        "entity_name": "East Africa",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "3beb0546-7c7a-42c1-927d-7429c3b1e475",
       "data": {
-        "entity_name": "Electromagnetic experiments / Magnetotellurics"
+        "entity_name": "Electromagnetic experiments / Magnetotellurics",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "7911ea8a-3048-4ee1-96e3-f26ea0618a80",
       "data": {
-        "entity_name": "1.4 Ma to Holocene"
+        "entity_name": "1.4 Ma to Holocene",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "5d71e9a7-17d0-4db3-a656-ad4d3bf57bc4",
       "data": {
-        "entity_name": "foidites and alkali basalts"
+        "entity_name": "foidites and alkali basalts",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "0725b862-f971-48fb-b3fe-42546c78e76d",
       "data": {
-        "entity_name": "Chyulu Hills Volcanic Province"
+        "entity_name": "Chyulu Hills Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "18099387-4a53-4360-afc5-90271b9e68df",
       "data": {
-        "entity_name": "Subcontinental lithosphere"
+        "entity_name": "Subcontinental lithosphere",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "62a9ddd5-1945-41bf-80d7-8cf108762323",
       "data": {
-        "entity_name": "Seismically Active"
+        "entity_name": "Seismically Active",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -2940,13 +3281,15 @@
     {
       "id": "26d15ce7-6396-40a8-831b-9713e57818df",
       "data": {
-        "entity_name": "70-1 ka"
+        "entity_name": "70-1 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "4df5aa69-d143-454e-9093-59f7441c12c6",
       "data": {
-        "entity_name": "Uplift observed"
+        "entity_name": "Uplift observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -2962,13 +3305,15 @@
     {
       "id": "7829766c-2e5b-4add-b905-559f33d2af6f",
       "data": {
-        "entity_name": "Multi-cone"
+        "entity_name": "Multi-cone",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "d6ce0e7f-26c5-4c6b-b229-abcb74061566",
       "data": {
-        "entity_name": "Recent activity"
+        "entity_name": "Recent activity",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -2980,31 +3325,36 @@
     {
       "id": "71e9abfb-f194-4ba0-ab2f-72b0684ae5cd",
       "data": {
-        "entity_name": "Snake River Plain Volcanic Province"
+        "entity_name": "Snake River Plain Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "526f412b-8294-4a24-877b-0fff2fefd636",
       "data": {
-        "entity_name": "Lava field"
+        "entity_name": "Lava field",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "4de10727-d148-4f8c-9ac9-e3c9d9797aa6",
       "data": {
-        "entity_name": "Idaho National Laboratory"
+        "entity_name": "Idaho National Laboratory",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "32b7a2a1-178a-486b-a4a2-bf4b8111a27c",
       "data": {
-        "entity_name": "AIRSAR data / Ground-penetrating radar"
+        "entity_name": "AIRSAR data / Ground-penetrating radar",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "191be8e8-04eb-4b9b-a8e8-e04d43da1dbe",
       "data": {
-        "entity_name": "15000 to 2000 years ago"
+        "entity_name": "15000 to 2000 years ago",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -3016,25 +3366,29 @@
     {
       "id": "29fd8740-29a5-4f79-ab14-8178d3363226",
       "data": {
-        "entity_name": "Limited activity with quiet emission of steam and hot water"
+        "entity_name": "Limited activity with quiet emission of steam and hot water",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "cd00e3f9-27a1-43cd-852d-e9514358a223",
       "data": {
-        "entity_name": "Andesites, bedded tuffs, welded tuffs"
+        "entity_name": "Andesites, bedded tuffs, welded tuffs",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "6ae723e4-5800-4005-819e-ea758e3fa71f",
       "data": {
-        "entity_name": "Australian Volcanic Regions"
+        "entity_name": "Australian Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "2152bd33-3007-41b7-b7e0-ab97c0c22328",
       "data": {
-        "entity_name": "Diatreme"
+        "entity_name": "Diatreme",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
@@ -3049,25 +3403,29 @@
     {
       "id": "956b9acd-11bc-4817-b248-75d314ce6dc4",
       "data": {
-        "entity_name": "11.21 ka"
+        "entity_name": "11.21 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "e323bae2-06b7-4924-ad3e-6fe4b7a03768",
       "data": {
-        "entity_name": "Intermediate-felsic volcanic, volcanoclastic and subvolcanic rocks"
+        "entity_name": "Intermediate-felsic volcanic, volcanoclastic and subvolcanic rocks",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "92715a48-4782-4755-8546-d4bc00b78a18",
       "data": {
-        "entity_name": "Silicic volcanic center"
+        "entity_name": "Silicic volcanic center",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "7b139103-6ce3-46a7-94be-36837b846851",
       "data": {
-        "entity_name": "Remote Sensing"
+        "entity_name": "Remote Sensing",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -3080,19 +3438,22 @@
     {
       "id": "a0cbb7da-1465-4e0c-b9b2-be26c0430804",
       "data": {
-        "entity_name": "Lava Plateau"
+        "entity_name": "Lava Plateau",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "82be489f-a391-42ae-bb70-e717001be43c",
       "data": {
-        "entity_name": "Extensive volcanism observed"
+        "entity_name": "Extensive volcanism observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "e1dbf2a2-00ae-4715-a43e-53fb47a20772",
       "data": {
-        "entity_name": "Related to tectonic motions in the Late Cenozoic"
+        "entity_name": "Related to tectonic motions in the Late Cenozoic",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -3104,13 +3465,15 @@
     {
       "id": "1777cfcd-6f18-410a-8f6a-ec10496c3089",
       "data": {
-        "entity_name": "Northwestern Great Basin"
+        "entity_name": "Northwestern Great Basin",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "bc8876fb-015c-486e-8747-2b33b7a649ea",
       "data": {
-        "entity_name": "Oregon Basalt Lava Fields"
+        "entity_name": "Oregon Basalt Lava Fields",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -3130,19 +3493,22 @@
     {
       "id": "3753521b-b121-4bc2-af70-61d9422ca3db",
       "data": {
-        "entity_name": "Kansas Volcanic Provinces"
+        "entity_name": "Kansas Volcanic Provinces",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "854032f7-4c06-47a8-9716-cdba9761bce3",
       "data": {
-        "entity_name": "Intrusive igneous activity observed"
+        "entity_name": "Intrusive igneous activity observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "dc3fcf7a-ce3b-4aa3-9bc3-b035654c74e5",
       "data": {
-        "entity_name": "Granite"
+        "entity_name": "Granite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -3154,13 +3520,15 @@
     {
       "id": "c1568731-cc92-4ce9-8fdb-9b2ab3874f83",
       "data": {
-        "entity_name": "1861"
+        "entity_name": "1861",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "480366cd-ad4f-4271-b4b0-b813e0e95b37",
       "data": {
-        "entity_name": "Lava / Pumice"
+        "entity_name": "Lava / Pumice",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -3174,19 +3542,22 @@
     {
       "id": "01a93100-71a3-4674-a69c-3db5d6922fbe",
       "data": {
-        "entity_name": "Basin-range normal faulting"
+        "entity_name": "Basin-range normal faulting",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "1e58c531-f8e4-4cc4-a89b-a955f174f9c1",
       "data": {
-        "entity_name": "Rhyodacitic"
+        "entity_name": "Rhyodacitic",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "06708c98-3823-4184-a4a2-2b95f2c1f63a",
       "data": {
-        "entity_name": "New Mexico Volcanic Province"
+        "entity_name": "New Mexico Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -3198,7 +3569,8 @@
     {
       "id": "18e75905-7df1-4f52-87f5-f1f6a4ac8945",
       "data": {
-        "entity_name": "Mariana Volcanic Arc"
+        "entity_name": "Mariana Volcanic Arc",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -3212,13 +3584,15 @@
     {
       "id": "68e78733-f7ad-46ca-b466-a6283ac9adad",
       "data": {
-        "entity_name": "New Zealand"
+        "entity_name": "New Zealand",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "37a5e54a-3b2f-4808-b5c9-f1a182e1d426",
       "data": {
-        "entity_name": "1987"
+        "entity_name": "1987",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -3232,25 +3606,29 @@
     {
       "id": "0d6f69f1-d4ae-4768-a04e-c98a471b7852",
       "data": {
-        "entity_name": "British Columbia Volcanic Province"
+        "entity_name": "British Columbia Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "e71111e7-5bee-475b-a945-14d4d7b7a293",
       "data": {
-        "entity_name": "Ridge"
+        "entity_name": "Ridge",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "224aa250-02c3-474d-8931-aa92dae3b65a",
       "data": {
-        "entity_name": "Volcanic complex"
+        "entity_name": "Volcanic complex",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "cb9aa8ea-dea8-4e67-9c96-9c4034aa9414",
       "data": {
-        "entity_name": "Alkaline basalt"
+        "entity_name": "Alkaline basalt",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -3262,31 +3640,36 @@
     {
       "id": "3fffe700-20f3-4038-a7f4-22a614cea178",
       "data": {
-        "entity_name": "February 2011"
+        "entity_name": "February 2011",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "50009539-aada-43dc-9a11-7659f70c4b90",
       "data": {
-        "entity_name": "Remote sensing"
+        "entity_name": "Remote sensing",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "111d3358-9535-472d-940b-541eb12c2ea8",
       "data": {
-        "entity_name": "Volcanic segment"
+        "entity_name": "Volcanic segment",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "f0d1e5e2-be72-4254-a4c4-84af9abe005a",
       "data": {
-        "entity_name": "Continental rifting"
+        "entity_name": "Continental rifting",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "5aa3fe85-d189-4b67-9220-228319c30181",
       "data": {
-        "entity_name": "Basaltic / Trachy-andesite / Rhyolitic"
+        "entity_name": "Basaltic / Trachy-andesite / Rhyolitic",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -3298,13 +3681,15 @@
     {
       "id": "c22b82c6-844c-4d44-9f86-ea43e684d07a",
       "data": {
-        "entity_name": "Peralkaline rhyolite"
+        "entity_name": "Peralkaline rhyolite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "9bce0003-7799-4050-9000-eac4f6191bce",
       "data": {
-        "entity_name": "Multispectral satellite images"
+        "entity_name": "Multispectral satellite images",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -3320,31 +3705,36 @@
     {
       "id": "8023b3bf-ba85-418e-bd06-e15a0e859f27",
       "data": {
-        "entity_name": "9100 BP"
+        "entity_name": "9100 BP",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "4fee8316-5e7c-4ddc-a5ae-a9bc7292497e",
       "data": {
-        "entity_name": "Forties volcanic province"
+        "entity_name": "Forties volcanic province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "517565d9-4fb4-4019-8f62-7f14aef05418",
       "data": {
-        "entity_name": "Dacite / Basaltic Andesite"
+        "entity_name": "Dacite / Basaltic Andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "c1ea32d6-6efa-44b9-8e10-14111062a667",
       "data": {
-        "entity_name": "Pyroclastic fall / Ignimbrite"
+        "entity_name": "Pyroclastic fall / Ignimbrite",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "6d8a3ebd-1963-450e-aea1-5eb9c68735e4",
       "data": {
-        "entity_name": "Tectonic Control"
+        "entity_name": "Tectonic Control",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -3357,13 +3747,15 @@
     {
       "id": "9b0b5cd8-1f8f-4327-8ac2-9af3728cbbc6",
       "data": {
-        "entity_name": "Magma"
+        "entity_name": "Magma",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "0b7b7142-b952-4e47-aeb4-46af068da5ae",
       "data": {
-        "entity_name": "Oligocene to Early Miocene"
+        "entity_name": "Oligocene to Early Miocene",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -3375,7 +3767,8 @@
     {
       "id": "a010cfa2-269b-4c39-ac6b-29bbdc4f61f8",
       "data": {
-        "entity_name": "Ground unrest detected"
+        "entity_name": "Ground unrest detected",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -3389,25 +3782,29 @@
     {
       "id": "e52a92f8-a5b7-47f7-bf6e-b41e1de46914",
       "data": {
-        "entity_name": "Canada"
+        "entity_name": "Canada",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "98fdb5ee-aba9-44a9-9955-6cf073e04466",
       "data": {
-        "entity_name": "450 ka"
+        "entity_name": "450 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "138a4f3d-82b2-4e0a-a304-fc631dae997c",
       "data": {
-        "entity_name": "Mildly alkalic basalts"
+        "entity_name": "Mildly alkalic basalts",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "32b73e9c-06e6-4cdb-ac93-b575c7b0d3e6",
       "data": {
-        "entity_name": "Tephra / Lava"
+        "entity_name": "Tephra / Lava",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -3424,7 +3821,8 @@
     {
       "id": "e6d0ce1c-d9b2-4bbe-b864-d6089aa9e39c",
       "data": {
-        "entity_name": "13.74–13.45 cal ka BP"
+        "entity_name": "13.74–13.45 cal ka BP",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -3448,13 +3846,15 @@
     {
       "id": "98a8cab5-5f8a-4c71-9013-4db359b90840",
       "data": {
-        "entity_name": "Nicaragua"
+        "entity_name": "Nicaragua",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "dedf704e-a590-4a91-831c-685cf892a541",
       "data": {
-        "entity_name": "2004"
+        "entity_name": "2004",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -3468,19 +3868,22 @@
     {
       "id": "80605b75-4563-4a9f-bcc8-7ddb24bcb764",
       "data": {
-        "entity_name": "13.29 Ma to 13.04 Ma, 12.43 Ma to 9.85 Ma, 5 to 4.5 Ma, 4.15 Ma to 3.78 Ma"
+        "entity_name": "13.29 Ma to 13.04 Ma, 12.43 Ma to 9.85 Ma, 5 to 4.5 Ma, 4.15 Ma to 3.78 Ma",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "d4129d89-8a3b-4270-bbcd-8c92d6d664de",
       "data": {
-        "entity_name": "Associated with rift zones and a hotspot along a passive continental margin"
+        "entity_name": "Associated with rift zones and a hotspot along a passive continental margin",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "c07fd9ad-83c5-4e78-9760-dd88c6c2b50e",
       "data": {
-        "entity_name": "Ambient Noise Tomography"
+        "entity_name": "Ambient Noise Tomography",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -3497,25 +3900,29 @@
     {
       "id": "adfb75e5-9ea2-41b4-b42c-d45a09c52ef1",
       "data": {
-        "entity_name": "Aleutian volcanic arc"
+        "entity_name": "Aleutian volcanic arc",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "7745f80e-4959-4f4a-8c1c-c6d429587c4b",
       "data": {
-        "entity_name": "Volcanic seismicity observed"
+        "entity_name": "Volcanic seismicity observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "b8d2749e-15a0-4588-87dc-2aa63508cad5",
       "data": {
-        "entity_name": "1945"
+        "entity_name": "1945",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "0677ecd8-44b7-4d41-a458-b581c9182b2b",
       "data": {
-        "entity_name": "Lava dome"
+        "entity_name": "Lava dome",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
@@ -3528,13 +3935,15 @@
     {
       "id": "5b7a8dbb-c435-4db2-b78b-37b3577d34de",
       "data": {
-        "entity_name": "Fumarolically Active"
+        "entity_name": "Fumarolically Active",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "8fdd6d17-5970-4b75-9ab4-544ce08ae990",
       "data": {
-        "entity_name": "Olivine Andesite"
+        "entity_name": "Olivine Andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -3546,7 +3955,8 @@
     {
       "id": "9de16244-34ae-4b0b-8f4c-abf9f4978029",
       "data": {
-        "entity_name": "Sierra Madre Occidental"
+        "entity_name": "Sierra Madre Occidental",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -3558,13 +3968,15 @@
     {
       "id": "bd72b7f7-3f34-44e1-aaac-a27c55641db6",
       "data": {
-        "entity_name": "Izu–Bonin (Ogasawara) – Mariana (IBM) arc system"
+        "entity_name": "Izu–Bonin (Ogasawara) – Mariana (IBM) arc system",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "8adddd49-6048-4ec3-96e4-8f0466b34ca0",
       "data": {
-        "entity_name": "Extensional tectonic environment"
+        "entity_name": "Extensional tectonic environment",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -3577,13 +3989,15 @@
     {
       "id": "47a04c7e-6de7-4631-bc43-365332892831",
       "data": {
-        "entity_name": "Red Sea"
+        "entity_name": "Red Sea",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "ac76e15e-0ed2-45f5-a898-c625f8e8898e",
       "data": {
-        "entity_name": "Alkali basalt, trachybasalt, trachyandesite, trachyte"
+        "entity_name": "Alkali basalt, trachybasalt, trachyandesite, trachyte",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -3598,37 +4012,43 @@
     {
       "id": "c4a8a82f-c4e0-457b-b71e-bb6e1930d439",
       "data": {
-        "entity_name": "Coeval Volcanism"
+        "entity_name": "Coeval Volcanism",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "a55d311c-5014-444b-8b4c-5bb7cf74b4ce",
       "data": {
-        "entity_name": "Gravity-induced spreading"
+        "entity_name": "Gravity-induced spreading",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "1f66d967-784a-4ead-a24b-fe4947f7bc25",
       "data": {
-        "entity_name": "Volcanic rocks"
+        "entity_name": "Volcanic rocks",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "7dcaf722-6650-44d4-9c5a-2e9a3e67f36e",
       "data": {
-        "entity_name": "27,000 - 21,300 BC; 1500 BC - AD 900"
+        "entity_name": "27,000 - 21,300 BC; 1500 BC - AD 900",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "a871adb2-5444-4b70-a23e-e33746e3fc6e",
       "data": {
-        "entity_name": "Lava / Pyroclastic materials"
+        "entity_name": "Lava / Pyroclastic materials",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "211d2e30-a55b-4e45-8d0b-4575d69ea002",
       "data": {
-        "entity_name": "Michoacán-Guanajuato Volcanic Field"
+        "entity_name": "Michoacán-Guanajuato Volcanic Field",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -3661,31 +4081,36 @@
     {
       "id": "4a7978bd-f3ce-4eab-ac1a-7d678c3f2f38",
       "data": {
-        "entity_name": "Hawaii"
+        "entity_name": "Hawaii",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "96cff1e6-bbd9-4733-b7f1-e9c269d868a6",
       "data": {
-        "entity_name": "Tholeiitic basalt / Transitional basalt / Hawaiite"
+        "entity_name": "Tholeiitic basalt / Transitional basalt / Hawaiite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "3d172886-8d0d-4c6a-9a92-fa9b40d84eee",
       "data": {
-        "entity_name": "Hawaiian Volcano Observatory"
+        "entity_name": "Hawaiian Volcano Observatory",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "f98d2d51-d48e-4e7d-a6e1-b1b4ebee5aa3",
       "data": {
-        "entity_name": "Infrared Scanning"
+        "entity_name": "Infrared Scanning",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "522fc918-755e-44df-a328-06252862ff05",
       "data": {
-        "entity_name": "1800-1801"
+        "entity_name": "1800-1801",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -3699,25 +4124,29 @@
     {
       "id": "e89c4aae-cf35-46e4-a43a-89f60e652d6a",
       "data": {
-        "entity_name": "1600"
+        "entity_name": "1600",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "77c616a1-f363-469f-a114-163e5652561d",
       "data": {
-        "entity_name": "Central Andes"
+        "entity_name": "Central Andes",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "b1c2f2b9-3e74-49a2-af8c-84e90044ee53",
       "data": {
-        "entity_name": "Central Andean Volcanic Zone"
+        "entity_name": "Central Andean Volcanic Zone",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "f0c0cb8d-73e6-4d01-804d-b9c004f04e13",
       "data": {
-        "entity_name": "Ash / Pumice"
+        "entity_name": "Ash / Pumice",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -3735,19 +4164,22 @@
     {
       "id": "34103e20-4408-4bbe-897c-1f3e16bd81a8",
       "data": {
-        "entity_name": "Eruptive processes inferred"
+        "entity_name": "Eruptive processes inferred",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "d7aa9eb2-fe88-405c-8a10-ae32b20259f2",
       "data": {
-        "entity_name": "Kimberlite"
+        "entity_name": "Kimberlite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "97ce96f1-903b-4cfe-b634-b20fd87573a2",
       "data": {
-        "entity_name": "Pyroclastic deposits / Lava"
+        "entity_name": "Pyroclastic deposits / Lava",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -3762,19 +4194,22 @@
     {
       "id": "84f042b1-72a3-4fda-985c-42623fc4a478",
       "data": {
-        "entity_name": "Cook Inlet Volcanic Province"
+        "entity_name": "Cook Inlet Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "48a95d00-bdf1-4782-b533-75f5ab630cc3",
       "data": {
-        "entity_name": "300 years ago, possibly as recently as 90-140 years ago"
+        "entity_name": "300 years ago, possibly as recently as 90-140 years ago",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "04bad5c8-ed9f-44b2-ab6d-547e4a00bea0",
       "data": {
-        "entity_name": "Gas (SO2, CO2)"
+        "entity_name": "Gas (SO2, CO2)",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -3787,19 +4222,22 @@
     {
       "id": "7b6a6533-2046-43c9-a0a0-2fc1af044fb6",
       "data": {
-        "entity_name": "431 CE"
+        "entity_name": "431 CE",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "a628f188-d119-438b-ae50-fa2a5ca15db0",
       "data": {
-        "entity_name": "Strike-slip faults"
+        "entity_name": "Strike-slip faults",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "ea1b8e0f-a62c-4601-9df8-cb4c43f240f0",
       "data": {
-        "entity_name": "Rhyolitic Volcano"
+        "entity_name": "Rhyolitic Volcano",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -3817,7 +4255,8 @@
     {
       "id": "e24a18d4-beba-4e23-971b-d0f2dc9b92e4",
       "data": {
-        "entity_name": "Volcanism continued into the Quaternary with dominantly mafic eruptions in the Simcoe, Boring, and Indian Heaven volcanic fields"
+        "entity_name": "Volcanism continued into the Quaternary with dominantly mafic eruptions in the Simcoe, Boring, and Indian Heaven volcanic fields",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -3829,37 +4268,43 @@
     {
       "id": "e5a3bb56-22c8-4194-a109-157cd61e43d0",
       "data": {
-        "entity_name": "Africa"
+        "entity_name": "Africa",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "1bbbb145-96a3-4a2f-8656-8dd6df3eb3a5",
       "data": {
-        "entity_name": "Last volcanic episodes probably dated ca. 6000–7100 y BP; warm springs and geysers are active."
+        "entity_name": "Last volcanic episodes probably dated ca. 6000–7100 y BP; warm springs and geysers are active.",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "102d5231-518d-4cc1-b563-96ae1d670e63",
       "data": {
-        "entity_name": "E-W-directed extensional regime"
+        "entity_name": "E-W-directed extensional regime",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "fe0d9246-0608-4eb5-990b-921d0e0b0cef",
       "data": {
-        "entity_name": "Basanites, tephrites, phonotephrites, benmoreites, trachyphonolites"
+        "entity_name": "Basanites, tephrites, phonotephrites, benmoreites, trachyphonolites",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "740a291c-30d6-49cb-a1ed-866dba9be553",
       "data": {
-        "entity_name": "Ash-flow tuffs"
+        "entity_name": "Ash-flow tuffs",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "c0e5c3b3-736c-4014-ad33-88cef08354ad",
       "data": {
-        "entity_name": "ca. 6000–7100 y BP"
+        "entity_name": "ca. 6000–7100 y BP",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -3875,19 +4320,22 @@
     {
       "id": "2077983b-b524-49cd-817d-2f8ee59b2fac",
       "data": {
-        "entity_name": "Norway"
+        "entity_name": "Norway",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "98e04fe5-13b0-4bbd-bea1-bdcd6920eb50",
       "data": {
-        "entity_name": "577–640 ka"
+        "entity_name": "577–640 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "71e7b69b-f518-4119-a72a-cc318e24c135",
       "data": {
-        "entity_name": "Jan Mayen Microcontinent"
+        "entity_name": "Jan Mayen Microcontinent",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -3901,13 +4349,15 @@
     {
       "id": "8740f8f4-6002-4e2a-8b24-9b7bf48f2d5c",
       "data": {
-        "entity_name": "15,000 years ago"
+        "entity_name": "15,000 years ago",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "3cd1cb19-2da3-460e-a980-305058a8c6ae",
       "data": {
-        "entity_name": "Oregon Cascade Range"
+        "entity_name": "Oregon Cascade Range",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -3925,25 +4375,29 @@
     {
       "id": "db317587-0940-44d5-8c8f-2c9d19185b48",
       "data": {
-        "entity_name": "Virunga province"
+        "entity_name": "Virunga province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "b234d4e7-ce8a-41be-9b7d-5c2266cae3a2",
       "data": {
-        "entity_name": "Active tectonic region"
+        "entity_name": "Active tectonic region",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "edd818fb-d5d9-4b5a-ac22-e9f8c8f5265a",
       "data": {
-        "entity_name": "Rwanda"
+        "entity_name": "Rwanda",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "333d8b59-7ca7-4675-83e7-39acd81a7057",
       "data": {
-        "entity_name": "K-basanite / K-trachyte"
+        "entity_name": "K-basanite / K-trachyte",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -3955,19 +4409,22 @@
     {
       "id": "06562409-7704-4bf6-9910-1e4423172955",
       "data": {
-        "entity_name": "Western Volcanic Region"
+        "entity_name": "Western Volcanic Region",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "4d8fcb14-40bf-402e-b10d-52a400d49670",
       "data": {
-        "entity_name": "Toro-Ankole volcanic province"
+        "entity_name": "Toro-Ankole volcanic province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "943e5f99-6852-46b6-b5bc-528f9bb1880c",
       "data": {
-        "entity_name": "Fine-grained porphyritic rocks"
+        "entity_name": "Fine-grained porphyritic rocks",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -3981,31 +4438,36 @@
     {
       "id": "f0984f02-2184-414f-8083-01629836d35d",
       "data": {
-        "entity_name": "Georgia"
+        "entity_name": "Georgia",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "a9dd2f05-3f39-45b5-859c-b9f9df82fd09",
       "data": {
-        "entity_name": "Greater Caucasus"
+        "entity_name": "Greater Caucasus",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "3470b78a-4400-46a4-be09-095fc7acb6b4",
       "data": {
-        "entity_name": "Kazbeki"
+        "entity_name": "Kazbeki",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "da16a58b-62d1-4ad8-b740-1d469beeeec0",
       "data": {
-        "entity_name": "Basaltic andesite to dacite"
+        "entity_name": "Basaltic andesite to dacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "9548ce1e-b888-4ba9-8c9c-77d6916d498e",
       "data": {
-        "entity_name": "Potentially Active (Dormant)"
+        "entity_name": "Potentially Active (Dormant)",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -4017,13 +4479,15 @@
     {
       "id": "e1525187-6eab-4662-b778-8362aa319e0f",
       "data": {
-        "entity_name": "Kerguelen Islands"
+        "entity_name": "Kerguelen Islands",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "b94e495a-7de8-43db-98e3-af8c7c0347b4",
       "data": {
-        "entity_name": "Trachytic to rhyolitic volcanic and volcaniclastic rocks / Intermediate to mafic compositions"
+        "entity_name": "Trachytic to rhyolitic volcanic and volcaniclastic rocks / Intermediate to mafic compositions",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -4038,31 +4502,36 @@
     {
       "id": "ac0abe6a-584a-41c5-a1d6-f41b2daba141",
       "data": {
-        "entity_name": "Japan"
+        "entity_name": "Japan",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "42db908c-b57a-4fe9-97eb-78dc172b2b13",
       "data": {
-        "entity_name": "Observational Studies"
+        "entity_name": "Observational Studies",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "d1218f64-3711-4198-8582-feb26acd03ca",
       "data": {
-        "entity_name": "Central cone"
+        "entity_name": "Central cone",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "2220f4fc-5812-4f25-bc3d-abb119527a3f",
       "data": {
-        "entity_name": "Quaternary composite volcano"
+        "entity_name": "Quaternary composite volcano",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "5931c438-dd41-470b-8214-4dc4281c54ae",
       "data": {
-        "entity_name": "Low-K andesites, basaltic andesite, dacite"
+        "entity_name": "Low-K andesites, basaltic andesite, dacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -4074,13 +4543,15 @@
     {
       "id": "508b3c18-20c6-4ec4-963c-011127f756b0",
       "data": {
-        "entity_name": "East African Rift Valley"
+        "entity_name": "East African Rift Valley",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "6b46a4a3-a91d-47ee-a0f6-a229e141825a",
       "data": {
-        "entity_name": "Basanite / Tephrite"
+        "entity_name": "Basanite / Tephrite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -4092,25 +4563,29 @@
     {
       "id": "d8c7f13d-c27a-421b-ab38-39d4db8a376a",
       "data": {
-        "entity_name": "Northern volcanic province"
+        "entity_name": "Northern volcanic province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "090c4b5c-e470-4ef9-a822-6166d94a47c9",
       "data": {
-        "entity_name": "Active extension"
+        "entity_name": "Active extension",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "f3433da3-d38d-4318-b630-eb76387bec98",
       "data": {
-        "entity_name": "Electromagnetic survey"
+        "entity_name": "Electromagnetic survey",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "45a433cc-df09-4bca-8705-d2b222b8510b",
       "data": {
-        "entity_name": "Pyroclastics / Tuffs"
+        "entity_name": "Pyroclastics / Tuffs",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -4122,7 +4597,8 @@
     {
       "id": "a78afc64-5130-4a6a-a612-6feb3f5f844c",
       "data": {
-        "entity_name": "Eruptive Activity Suspected"
+        "entity_name": "Eruptive Activity Suspected",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -4136,25 +4612,29 @@
     {
       "id": "85859536-0c67-47a5-ac0e-cbec33565308",
       "data": {
-        "entity_name": "1730–1736"
+        "entity_name": "1730–1736",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "5c78af9f-e7af-46f7-9469-3c7c80790a44",
       "data": {
-        "entity_name": "Pyroclastic cone"
+        "entity_name": "Pyroclastic cone",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "533aa640-63f5-4bd8-9daa-fe22a925b9eb",
       "data": {
-        "entity_name": "Instituto de Astronomia y Geodesia"
+        "entity_name": "Instituto de Astronomia y Geodesia",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "26acdb51-a491-40c8-97b7-e9e403d5f886",
       "data": {
-        "entity_name": "Poorly mobile tectonic plate"
+        "entity_name": "Poorly mobile tectonic plate",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -4171,19 +4651,22 @@
     {
       "id": "9c72860b-5ec6-4a67-bc04-a773c30da014",
       "data": {
-        "entity_name": "Basaltic"
+        "entity_name": "Basaltic",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "4170a01d-9816-4f6d-959c-f93cc42284b8",
       "data": {
-        "entity_name": "2021"
+        "entity_name": "2021",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "63be2dcd-4b5e-4616-9f8f-de81ce25e3fc",
       "data": {
-        "entity_name": "INVOLCAN"
+        "entity_name": "INVOLCAN",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -4196,7 +4679,8 @@
     {
       "id": "5d6d05c3-bc37-45ad-9c0c-f11ed4b333d9",
       "data": {
-        "entity_name": "St. Kitts and Nevis"
+        "entity_name": "St. Kitts and Nevis",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -4210,19 +4694,22 @@
     {
       "id": "fef513e8-c2a6-4cc6-a27c-62b7cd0e6f3a",
       "data": {
-        "entity_name": "Trachybasalts and basaltic trachyandesites; some monzonites"
+        "entity_name": "Trachybasalts and basaltic trachyandesites; some monzonites",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "4aa9f5cf-af62-4709-a4cd-9ce5cbb7bb0f",
       "data": {
-        "entity_name": "Tabar–Lihir–Tanga–Feni island chain"
+        "entity_name": "Tabar–Lihir–Tanga–Feni island chain",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "85283ead-0051-481e-8c95-9d9b4295871d",
       "data": {
-        "entity_name": "Ongoing Hydrothermal Activity"
+        "entity_name": "Ongoing Hydrothermal Activity",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -4235,13 +4722,15 @@
     {
       "id": "71d524a4-5bbb-4d55-91b3-01080f9ace96",
       "data": {
-        "entity_name": "Volcano-tectonic (VT) earthquake swarm"
+        "entity_name": "Volcano-tectonic (VT) earthquake swarm",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "2ddd83e8-8177-44d2-a329-acae2dccb220",
       "data": {
-        "entity_name": "Geophysical networks installation"
+        "entity_name": "Geophysical networks installation",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -4255,37 +4744,43 @@
     {
       "id": "87b2e1c2-c187-4063-b922-82a6494c324e",
       "data": {
-        "entity_name": "Sumatra"
+        "entity_name": "Sumatra",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "8c7ae669-2970-489d-b873-52b574ada48a",
       "data": {
-        "entity_name": "Volcanic arc granitoid"
+        "entity_name": "Volcanic arc granitoid",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "5f87bbde-46cc-4734-8963-cef10e381ad7",
       "data": {
-        "entity_name": "Cone"
+        "entity_name": "Cone",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "06ce2b05-e089-4936-a839-9b2ef158cac8",
       "data": {
-        "entity_name": "GFZ and BMKG"
+        "entity_name": "GFZ and BMKG",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "228bd78b-eee5-412e-a735-83d91123a4a4",
       "data": {
-        "entity_name": "Forearc basement of the Banda volcanic arc"
+        "entity_name": "Forearc basement of the Banda volcanic arc",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "c6fbf283-50ba-41a8-a1f2-6862cb142e1a",
       "data": {
-        "entity_name": "East Java Volcanic Provinces"
+        "entity_name": "East Java Volcanic Provinces",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -4297,19 +4792,22 @@
     {
       "id": "5f48f89a-4838-4552-861f-e9a96eeffd8b",
       "data": {
-        "entity_name": "Geodetic Activity Observed"
+        "entity_name": "Geodetic Activity Observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "f7645eb0-8c4c-488e-9932-60b98a08fcd4",
       "data": {
-        "entity_name": "Trachytic"
+        "entity_name": "Trachytic",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "2ff7a2ce-120a-4ad6-b79a-55905875a7ef",
       "data": {
-        "entity_name": "Microearthquake Monitoring"
+        "entity_name": "Microearthquake Monitoring",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -4325,13 +4823,15 @@
     {
       "id": "81383d01-4dc2-4a5f-8e5b-765152eded6d",
       "data": {
-        "entity_name": "Katmai volcanic cluster"
+        "entity_name": "Katmai volcanic cluster",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "fd5b7ec3-928f-46db-bfd4-e430e7c382b9",
       "data": {
-        "entity_name": "Earthquake Swarm Observed"
+        "entity_name": "Earthquake Swarm Observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -4347,31 +4847,36 @@
     {
       "id": "0ae10891-2ebf-4bb9-a052-b1ada4a9fd01",
       "data": {
-        "entity_name": "California Volcanic Provinces"
+        "entity_name": "California Volcanic Provinces",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "65dec17a-d70c-4d31-90b1-40f72189a698",
       "data": {
-        "entity_name": "Resurgent Dome"
+        "entity_name": "Resurgent Dome",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "5df193ff-dba1-4a44-a88d-ccfdb260591f",
       "data": {
-        "entity_name": "CO2"
+        "entity_name": "CO2",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "8dd3093a-0d8b-4022-b574-e96689599adf",
       "data": {
-        "entity_name": "400 years ago"
+        "entity_name": "400 years ago",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "472b7733-936a-4e2a-b2a8-c8cec6cc5987",
       "data": {
-        "entity_name": "Normal fault"
+        "entity_name": "Normal fault",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -4385,13 +4890,15 @@
     {
       "id": "19f5cf56-4c96-4773-baeb-38cbaaf6b440",
       "data": {
-        "entity_name": "African Volcanic Region"
+        "entity_name": "African Volcanic Region",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "bead7fb4-0f42-4b79-89af-b1adc8e87841",
       "data": {
-        "entity_name": "Kenya rift"
+        "entity_name": "Kenya rift",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -4406,25 +4913,29 @@
     {
       "id": "4d4b8de2-e1da-4d3e-90ff-305a3a588c58",
       "data": {
-        "entity_name": "1670, 1772"
+        "entity_name": "1670, 1772",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "a65e1a82-d968-4ef6-95ee-92d3aa03484e",
       "data": {
-        "entity_name": "Degassing episodes observed"
+        "entity_name": "Degassing episodes observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "bae67d13-6ee4-43c8-8c13-6c7c9bf90980",
       "data": {
-        "entity_name": "Instituto Nicaragüense de Estudios Territoriales (INETER)"
+        "entity_name": "Instituto Nicaragüense de Estudios Territoriales (INETER)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "dd496f83-4ff1-4ec6-85b7-1fba28cf6834",
       "data": {
-        "entity_name": "Spectroscopic measurements"
+        "entity_name": "Spectroscopic measurements",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -4440,7 +4951,8 @@
     {
       "id": "b1c45ff5-91fe-418e-8752-fde1d3dad17b",
       "data": {
-        "entity_name": "3600 years ago"
+        "entity_name": "3600 years ago",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -4452,7 +4964,8 @@
     {
       "id": "6b65e29e-6a2e-4108-8415-8153202b8ff2",
       "data": {
-        "entity_name": "Oceanites / Alkali Basalts / Basanites"
+        "entity_name": "Oceanites / Alkali Basalts / Basanites",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -4465,13 +4978,15 @@
     {
       "id": "90c386d3-2684-4329-918a-76538cb70cd8",
       "data": {
-        "entity_name": "Darfur Dome Volcanic Province"
+        "entity_name": "Darfur Dome Volcanic Province",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "6935f369-cfa2-4b75-b9b7-2f8db09be8f3",
       "data": {
-        "entity_name": "Basanites to phonolites"
+        "entity_name": "Basanites to phonolites",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -4483,31 +4998,36 @@
     {
       "id": "a48a10dc-ef89-4a2d-b55d-43d420d53c2a",
       "data": {
-        "entity_name": "Geodetic activity detected"
+        "entity_name": "Geodetic activity detected",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "d62fd845-9dac-4cbc-b4d4-1ef21a628ccb",
       "data": {
-        "entity_name": "Kenya Rift Valley"
+        "entity_name": "Kenya Rift Valley",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "a0b56bbb-191e-4c7d-925b-d4b9efaabc15",
       "data": {
-        "entity_name": "Sentinel 1 images, Terrain Observation with Progressive Scans SAR (TOPSAR), Structural mapping"
+        "entity_name": "Sentinel 1 images, Terrain Observation with Progressive Scans SAR (TOPSAR), Structural mapping",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "c66d8013-86b5-46c8-8694-4c9e169c0b92",
       "data": {
-        "entity_name": "29000 years ago, before 12850 years ago"
+        "entity_name": "29000 years ago, before 12850 years ago",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "3ad72cb1-a225-4543-ba86-f51e379efdc8",
       "data": {
-        "entity_name": "Lava / Ash-flow tuffs"
+        "entity_name": "Lava / Ash-flow tuffs",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -4520,13 +5040,15 @@
     {
       "id": "0df8953e-d8d9-4ec5-b837-9ca58644585b",
       "data": {
-        "entity_name": "andesites"
+        "entity_name": "andesites",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "1642a87a-7afa-4c68-8cb0-b274b2dfd06e",
       "data": {
-        "entity_name": "Northeastern California"
+        "entity_name": "Northeastern California",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -4540,7 +5062,8 @@
     {
       "id": "694e3827-f728-4dc2-b272-18f330edd879",
       "data": {
-        "entity_name": "Quiescently Degassing"
+        "entity_name": "Quiescently Degassing",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -4561,13 +5084,15 @@
     {
       "id": "44c1e39a-0ba7-43af-a923-cb0f02f90491",
       "data": {
-        "entity_name": "Saint Kitts and Nevis"
+        "entity_name": "Saint Kitts and Nevis",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "e52ec559-b84d-4c63-99ae-a0d483593759",
       "data": {
-        "entity_name": "Diorite"
+        "entity_name": "Diorite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -4581,37 +5106,43 @@
     {
       "id": "473575c5-bca1-472b-91e2-215664af8832",
       "data": {
-        "entity_name": "Australia"
+        "entity_name": "Australia",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "81a49dd7-192b-43cd-8056-b60fb671c5f1",
       "data": {
-        "entity_name": "Newer Volcanics Province"
+        "entity_name": "Newer Volcanics Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "d015d456-f9f3-48d5-8aba-ce899b6e0497",
       "data": {
-        "entity_name": "Maar"
+        "entity_name": "Maar",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "adac0bcc-dc23-42e5-9170-74812bb7db1b",
       "data": {
-        "entity_name": "Compressional lithospheric stress field"
+        "entity_name": "Compressional lithospheric stress field",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "4081d631-27e5-44fc-a393-d25cc3ecac5f",
       "data": {
-        "entity_name": "<0.5 Ma, ~2 Ma, >4 Ma"
+        "entity_name": "<0.5 Ma, ~2 Ma, >4 Ma",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "119a95a9-717d-4dd5-913b-238d7c4a6366",
       "data": {
-        "entity_name": "Tephra / Magma"
+        "entity_name": "Tephra / Magma",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -4623,19 +5154,22 @@
     {
       "id": "1ff3cca0-e0a0-4233-928c-7be45d78bced",
       "data": {
-        "entity_name": "Rungwe Volcanic Province"
+        "entity_name": "Rungwe Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "96a6b906-71b3-46b9-97ab-5458040cb360",
       "data": {
-        "entity_name": "Strike-slip setting"
+        "entity_name": "Strike-slip setting",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "d27bdc79-d1e1-41cd-990e-b63fea00a35f",
       "data": {
-        "entity_name": "Multi-disciplinary concept including bathymetry, thermal mapping, and gas emission studies"
+        "entity_name": "Multi-disciplinary concept including bathymetry, thermal mapping, and gas emission studies",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -4657,37 +5191,43 @@
     {
       "id": "9fa82775-0152-4c92-9dbd-c6430d109cfa",
       "data": {
-        "entity_name": "Democratic Republic of Congo"
+        "entity_name": "Democratic Republic of Congo",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "a3630b46-4981-4f49-872c-562ee5c4209d",
       "data": {
-        "entity_name": "2002"
+        "entity_name": "2002",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "a2d80e3c-7b6d-4665-8507-aa46dd21ab06",
       "data": {
-        "entity_name": "Rift volcano"
+        "entity_name": "Rift volcano",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "38b54eca-1e6d-4bb6-9b2f-9bb0a0cda094",
       "data": {
-        "entity_name": "Goma Volcano Observatory"
+        "entity_name": "Goma Volcano Observatory",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "f14b22e0-ef2c-43ed-b230-f3febbcd5aa9",
       "data": {
-        "entity_name": "Olivine melilitite / Nephelinite / Alkali olivine basalt"
+        "entity_name": "Olivine melilitite / Nephelinite / Alkali olivine basalt",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "d0fd7278-ef81-4e46-849d-4df1498b3420",
       "data": {
-        "entity_name": "Virunga Volcanic Province"
+        "entity_name": "Virunga Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -4700,25 +5240,29 @@
     {
       "id": "7c647502-4974-40b7-b248-037bd84a5c3a",
       "data": {
-        "entity_name": "African Rift Valley"
+        "entity_name": "African Rift Valley",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "1bb59ee2-29d6-4caf-82e9-fe20f1dad716",
       "data": {
-        "entity_name": "Multicentered"
+        "entity_name": "Multicentered",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "78ff7984-641a-4ef9-b1ed-07cc1857070a",
       "data": {
-        "entity_name": "Kenyan Rift Valley"
+        "entity_name": "Kenyan Rift Valley",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "2733e46b-7ad3-4839-b575-d0f85bff969e",
       "data": {
-        "entity_name": "Prior to 15 ka"
+        "entity_name": "Prior to 15 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -4735,13 +5279,15 @@
     {
       "id": "eb245e34-e9e3-44aa-941e-36e777114e20",
       "data": {
-        "entity_name": "Induced Polarization (IP) survey"
+        "entity_name": "Induced Polarization (IP) survey",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "37f125fc-94e8-43eb-a5d0-c72fc68216ba",
       "data": {
-        "entity_name": "Geothermal Development Company"
+        "entity_name": "Geothermal Development Company",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -4757,25 +5303,29 @@
     {
       "id": "6b4eba14-cd69-4b89-83ca-a29e33a26964",
       "data": {
-        "entity_name": "Myanmar"
+        "entity_name": "Myanmar",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "72a952d0-d448-430f-b5b3-12b8afcec2e4",
       "data": {
-        "entity_name": "~8000 BP"
+        "entity_name": "~8000 BP",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "b1483ded-fcff-4377-aafa-16735a92e7ea",
       "data": {
-        "entity_name": "Central Myanmar Volcanic Province"
+        "entity_name": "Central Myanmar Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "8c458c4c-7408-4acc-84b9-3ccb25e0dfe9",
       "data": {
-        "entity_name": "Myanmar Geological Survey"
+        "entity_name": "Myanmar Geological Survey",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -4788,13 +5338,15 @@
     {
       "id": "cca3b9d0-ffb9-4d3e-9950-6ac7940ccd64",
       "data": {
-        "entity_name": "Southwest Indian Ocean"
+        "entity_name": "Southwest Indian Ocean",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "c2a75ebf-f5b0-4474-9e8e-7d1fc5b22948",
       "data": {
-        "entity_name": "Volcanic activity observed"
+        "entity_name": "Volcanic activity observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -4811,7 +5363,8 @@
     {
       "id": "b86f366c-ea25-49e4-929e-1f9edc3a0400",
       "data": {
-        "entity_name": "A.D. 1820"
+        "entity_name": "A.D. 1820",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -4824,31 +5377,36 @@
     {
       "id": "45d3a470-3a37-4dce-bfe1-1fee46f9923e",
       "data": {
-        "entity_name": "Tanzania"
+        "entity_name": "Tanzania",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "a585cbed-5db4-416b-888a-837231fbd4f7",
       "data": {
-        "entity_name": "Trachy-dacite"
+        "entity_name": "Trachy-dacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "b009ea34-ecea-4836-b695-ac93e43c30b4",
       "data": {
-        "entity_name": "Ongoing magmatism"
+        "entity_name": "Ongoing magmatism",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "de02e19b-0353-4869-a8ef-2d4bf48f5feb",
       "data": {
-        "entity_name": "Cenozoic rifting and magmatism"
+        "entity_name": "Cenozoic rifting and magmatism",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "60e7dfa8-6b38-4088-b718-6bfe1afd8617",
       "data": {
-        "entity_name": "ca. 4 ka"
+        "entity_name": "ca. 4 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -4861,37 +5419,43 @@
     {
       "id": "690b11b6-e4b8-4995-bf29-d7fe5f29075a",
       "data": {
-        "entity_name": "Basalt, basaltic andesite, andesite, dacite"
+        "entity_name": "Basalt, basaltic andesite, andesite, dacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "a280ccd8-8f06-4f8c-a457-a0ff140a5f21",
       "data": {
-        "entity_name": "Eastern Mediterranean Region"
+        "entity_name": "Eastern Mediterranean Region",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "f560f66f-ee81-4456-8405-8a0d35081748",
       "data": {
-        "entity_name": "Sakarya Zone"
+        "entity_name": "Sakarya Zone",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "1a666a1e-8fa1-4edf-98f6-120d68060577",
       "data": {
-        "entity_name": "Volcanic event"
+        "entity_name": "Volcanic event",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "7becef75-9a3c-4620-9309-924c5d4116da",
       "data": {
-        "entity_name": "52.7 ± 0.5 Ma, 41.7 ± 0.3 Ma"
+        "entity_name": "52.7 ± 0.5 Ma, 41.7 ± 0.3 Ma",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "aaa33c03-8f3a-4628-84e7-56ea4c2a8059",
       "data": {
-        "entity_name": "Basalt, Rhyolite, Trachydacite"
+        "entity_name": "Basalt, Rhyolite, Trachydacite",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -4903,7 +5467,8 @@
     {
       "id": "4f7c233a-76c9-4d89-903b-1b33df64bfff",
       "data": {
-        "entity_name": "San Carlos"
+        "entity_name": "San Carlos",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -4916,25 +5481,29 @@
     {
       "id": "4e72feb4-bc17-4e07-94a9-bd99a13978bf",
       "data": {
-        "entity_name": "FloWire, Volcano, San Diego"
+        "entity_name": "FloWire, Volcano, San Diego",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "800e11f1-9f25-4015-adbe-070b3cda21cb",
       "data": {
-        "entity_name": "Puertecitos Volcanic Province"
+        "entity_name": "Puertecitos Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "d5f944ca-5b08-433b-916c-e152959e5892",
       "data": {
-        "entity_name": "Mafic"
+        "entity_name": "Mafic",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "4e4091e7-7982-48b7-bfa3-efa2ca4006e8",
       "data": {
-        "entity_name": "1.78 Ma"
+        "entity_name": "1.78 Ma",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -4946,19 +5515,22 @@
     {
       "id": "a89fc119-5596-45f6-981b-c401a3cd3de2",
       "data": {
-        "entity_name": "San Joaquin Basin"
+        "entity_name": "San Joaquin Basin",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "590e8b70-6546-48d1-b85f-4781213f1255",
       "data": {
-        "entity_name": "Basaltic Andesite"
+        "entity_name": "Basaltic Andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "f7ee39e0-18f3-4466-b297-ca826a20d64a",
       "data": {
-        "entity_name": "AD 1350"
+        "entity_name": "AD 1350",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -4972,7 +5544,8 @@
     {
       "id": "221835aa-b566-4f12-8744-dfbc96c39394",
       "data": {
-        "entity_name": "Lahar Observed"
+        "entity_name": "Lahar Observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -4985,19 +5558,22 @@
     {
       "id": "65995d20-6b17-4215-a6ce-2986fd0b82c4",
       "data": {
-        "entity_name": "Mariana Island region"
+        "entity_name": "Mariana Island region",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "9ea3e78d-c522-4be5-acb7-efe2558c34a4",
       "data": {
-        "entity_name": "May 2010"
+        "entity_name": "May 2010",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "6c2a5ef4-6436-4916-8c0e-2a56ad4f0edb",
       "data": {
-        "entity_name": "International Monitoring System"
+        "entity_name": "International Monitoring System",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -5013,13 +5589,15 @@
     {
       "id": "beddce61-d7f6-4dad-b320-79fb642fb29b",
       "data": {
-        "entity_name": "Tilt networks, EDM, and continuous seismic monitoring"
+        "entity_name": "Tilt networks, EDM, and continuous seismic monitoring",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "b9178d61-f7c8-4608-bd81-bc10d4378004",
       "data": {
-        "entity_name": "100 ka"
+        "entity_name": "100 ka",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -5032,7 +5610,8 @@
     {
       "id": "7246dc07-3b98-42c7-a8fa-dbf1742742dd",
       "data": {
-        "entity_name": "1999"
+        "entity_name": "1999",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -5044,13 +5623,15 @@
     {
       "id": "fe786666-4b92-4fa0-93b4-fa33c93d358c",
       "data": {
-        "entity_name": "Active extension in the East African Rift System"
+        "entity_name": "Active extension in the East African Rift System",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "55cde1cd-741d-448c-97cd-e9e9a355c52d",
       "data": {
-        "entity_name": "Ground Unrest Detected"
+        "entity_name": "Ground Unrest Detected",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -5069,7 +5650,8 @@
     {
       "id": "cbc359ab-4536-4346-b1c6-a54585247fc5",
       "data": {
-        "entity_name": "Katmai Volcanic Group"
+        "entity_name": "Katmai Volcanic Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -5088,7 +5670,8 @@
     {
       "id": "827e12d0-cc66-49d3-bf8d-af67223d0918",
       "data": {
-        "entity_name": "Basalt / Tephritic basalt"
+        "entity_name": "Basalt / Tephritic basalt",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -5104,31 +5687,36 @@
     {
       "id": "4e8ab656-5ac3-4471-ad56-cc24835fe70a",
       "data": {
-        "entity_name": "Interferometric synthetic aperture radar (InSAR)"
+        "entity_name": "Interferometric synthetic aperture radar (InSAR)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "69d93998-f999-440f-baac-622a12126cfe",
       "data": {
-        "entity_name": "Geodetic activity observed"
+        "entity_name": "Geodetic activity observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "3deec64e-5a81-4fed-b5d1-0ee1017b7f82",
       "data": {
-        "entity_name": "Continental rift zone"
+        "entity_name": "Continental rift zone",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "6e2d9451-6ea6-4ce0-9025-75c02297dc26",
       "data": {
-        "entity_name": "Quaternary"
+        "entity_name": "Quaternary",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "2f5e03ce-8017-4fce-b1ce-b58516ec89ea",
       "data": {
-        "entity_name": "Peralkaline Province"
+        "entity_name": "Peralkaline Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -5148,25 +5736,29 @@
     {
       "id": "f5d07f43-66d0-480b-bcfa-9dbc3e777fb4",
       "data": {
-        "entity_name": "Taiwan"
+        "entity_name": "Taiwan",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "e3a7085a-198c-4d6c-8bd1-df423e3aff20",
       "data": {
-        "entity_name": "Asian Volcanic Regions"
+        "entity_name": "Asian Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "71bd2e2c-2d94-4a19-ac2f-aa80fb4f528b",
       "data": {
-        "entity_name": "6000 years ago, 13000–23000 years ago"
+        "entity_name": "6000 years ago, 13000–23000 years ago",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "0ee54f12-b03d-438b-8379-3cf7f68002ba",
       "data": {
-        "entity_name": "Formosa Array"
+        "entity_name": "Formosa Array",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -5178,7 +5770,8 @@
     {
       "id": "df8edc1d-b6c6-4088-ab45-fe7eb7061d4b",
       "data": {
-        "entity_name": "Fire activity evidenced by charcoal bands; potential ignition by volcanic eruptions"
+        "entity_name": "Fire activity evidenced by charcoal bands; potential ignition by volcanic eruptions",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -5203,25 +5796,29 @@
     {
       "id": "b94da669-0e1f-43aa-a314-9d785198d0e2",
       "data": {
-        "entity_name": "American Samoa"
+        "entity_name": "American Samoa",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "ba1c8891-c0a0-4f92-8bfc-8b9b601491a4",
       "data": {
-        "entity_name": "Hawaiite (basaltic)"
+        "entity_name": "Hawaiite (basaltic)",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "c0c186a0-e52d-4f84-8c5e-a034b15a7c50",
       "data": {
-        "entity_name": "Samoan archipelago"
+        "entity_name": "Samoan archipelago",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "0f00c9a0-2f0c-4c93-910c-60c9efe9c84d",
       "data": {
-        "entity_name": "Ongoing Volcanism"
+        "entity_name": "Ongoing Volcanism",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -5233,7 +5830,8 @@
     {
       "id": "2659e03e-0386-4703-a810-cc80a8c62dc2",
       "data": {
-        "entity_name": "1802 CE"
+        "entity_name": "1802 CE",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -5245,19 +5843,22 @@
     {
       "id": "4127c70a-38b2-4532-b524-0887bbbaf92e",
       "data": {
-        "entity_name": "South Korea"
+        "entity_name": "South Korea",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "d22464ca-d372-4397-a897-680648325a6d",
       "data": {
-        "entity_name": "East Asia"
+        "entity_name": "East Asia",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "5d1b2fd5-e34b-49b9-9d37-8cbbd4f8fb78",
       "data": {
-        "entity_name": "3354-3080 cal yr BP"
+        "entity_name": "3354-3080 cal yr BP",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -5269,19 +5870,22 @@
     {
       "id": "71c906cf-b03a-4594-8a3e-01ae02f92085",
       "data": {
-        "entity_name": "Compound"
+        "entity_name": "Compound",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "63d06bfc-dd5c-4b07-b101-b7eda873b217",
       "data": {
-        "entity_name": "Pacific Islands"
+        "entity_name": "Pacific Islands",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "85e324a8-8381-47b4-8226-97b01d6b192b",
       "data": {
-        "entity_name": "Olivine basalt / Oligine-poor basalt / Picritic basalt / Basaltic andesite / Trachyte"
+        "entity_name": "Olivine basalt / Oligine-poor basalt / Picritic basalt / Basaltic andesite / Trachyte",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -5294,13 +5898,15 @@
     {
       "id": "9ca5470f-7cd9-4d44-b734-aa83152c175d",
       "data": {
-        "entity_name": "Samoan Archipelago"
+        "entity_name": "Samoan Archipelago",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "680d22bf-3f45-4c94-8692-ea69a306d423",
       "data": {
-        "entity_name": "1.5 Ma"
+        "entity_name": "1.5 Ma",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -5313,25 +5919,29 @@
     {
       "id": "fb246e64-92fb-4e6c-92bd-c3832915f69d",
       "data": {
-        "entity_name": "Kirishima Volcanic Complex"
+        "entity_name": "Kirishima Volcanic Complex",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "876a5ef8-4976-4550-a53b-30944b2c5656",
       "data": {
-        "entity_name": "Multi-parametric observations"
+        "entity_name": "Multi-parametric observations",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "fdbd38d4-31be-49a9-8d01-048b799ec20e",
       "data": {
-        "entity_name": "Cordillera Volcánica Central"
+        "entity_name": "Cordillera Volcánica Central",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "124a560e-e9f6-49c5-80e0-760435d19b92",
       "data": {
-        "entity_name": "Basaltic–andesitic"
+        "entity_name": "Basaltic–andesitic",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -5345,25 +5955,29 @@
     {
       "id": "6234d45c-4699-4955-9e11-42a8d6b9306f",
       "data": {
-        "entity_name": "Germany"
+        "entity_name": "Germany",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "e36cae36-c3f9-430c-9c1c-50273a204181",
       "data": {
-        "entity_name": "West Eifel Volcanic Field"
+        "entity_name": "West Eifel Volcanic Field",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "d0ed79c4-7a01-4c11-a8b6-ac44cc3722e7",
       "data": {
-        "entity_name": "~0.5-0.01 Ma"
+        "entity_name": "~0.5-0.01 Ma",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "6b753daf-1349-458e-b8d1-ff1ebcb95d11",
       "data": {
-        "entity_name": "Variscan lithospheric structures"
+        "entity_name": "Variscan lithospheric structures",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -5376,31 +5990,36 @@
     {
       "id": "40e75d16-fd85-4d34-ae16-c467732bfc09",
       "data": {
-        "entity_name": "Southern Tyrrhenian Sea"
+        "entity_name": "Southern Tyrrhenian Sea",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "d97f337d-e09b-47e3-af26-1d15fddae4e4",
       "data": {
-        "entity_name": "Back-arc basin"
+        "entity_name": "Back-arc basin",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "5da4382a-fe72-443c-959e-a947a4d0e149",
       "data": {
-        "entity_name": "Calcalkaline"
+        "entity_name": "Calcalkaline",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "4211eee7-5bff-47c5-9b67-a5c1196f42cd",
       "data": {
-        "entity_name": "Gibilmanna OBS Lab (CNT–INGV)"
+        "entity_name": "Gibilmanna OBS Lab (CNT–INGV)",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "86344688-8f43-4c0e-a487-dbe39a03c3b3",
       "data": {
-        "entity_name": "Historical Times"
+        "entity_name": "Historical Times",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
@@ -5417,13 +6036,15 @@
     {
       "id": "e047ae1d-74e0-4f61-bf03-e989508d15ce",
       "data": {
-        "entity_name": "BPPTKG"
+        "entity_name": "BPPTKG",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
       "id": "49d09531-48b2-462a-9357-146d5cd8cf74",
       "data": {
-        "entity_name": "Central Java"
+        "entity_name": "Central Java",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -5436,7 +6057,8 @@
     {
       "id": "a86394c2-7fcd-4358-a8d6-dd79de10fa2f",
       "data": {
-        "entity_name": "Volcanic ash / Bantak"
+        "entity_name": "Volcanic ash / Bantak",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
@@ -5449,31 +6071,36 @@
     {
       "id": "311463e2-25cd-4c13-9da9-8a90b4d8c672",
       "data": {
-        "entity_name": "230 BC"
+        "entity_name": "230 BC",
+        "related_relation_types": "Known Eruption"
       }
     },
     {
       "id": "901e9b89-cb3f-4d08-8dea-0e1d5bb73bf6",
       "data": {
-        "entity_name": "Pyroclastic products"
+        "entity_name": "Pyroclastic products",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "8d4481ce-0e72-49a8-9cf5-752c71c0febd",
       "data": {
-        "entity_name": "South Aegean Volcanic Arc"
+        "entity_name": "South Aegean Volcanic Arc",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "3005b60e-5416-48d3-ae8f-2b16b506e9d2",
       "data": {
-        "entity_name": "Hellenic Volcanic Arc"
+        "entity_name": "Hellenic Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "28acaf87-ace2-4944-85ab-056ae7de03a7",
       "data": {
-        "entity_name": "Synthetic Aperture Radar (SAR) imagery / GNSS / GPS benchmark surveying"
+        "entity_name": "Synthetic Aperture Radar (SAR) imagery / GNSS / GPS benchmark surveying",
+        "related_relation_types": "Monitoring Method"
       }
     },
     {
@@ -5487,31 +6114,36 @@
     {
       "id": "93787cac-d3b0-4312-803c-a49dd9a35616",
       "data": {
-        "entity_name": "Aegean Volcanic Arc"
+        "entity_name": "Aegean Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "c3fb2382-436c-42bd-96f8-f973510bb787",
       "data": {
-        "entity_name": "Seismic Activity"
+        "entity_name": "Seismic Activity",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "48ba1e7f-7944-4c77-a357-f6bf35a3f9f1",
       "data": {
-        "entity_name": "Tuff rings"
+        "entity_name": "Tuff rings",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "13ee9e56-885e-492d-a4d3-fb137a880ac5",
       "data": {
-        "entity_name": "Pyroclastic and Lava flows"
+        "entity_name": "Pyroclastic and Lava flows",
+        "related_relation_types": "Eruptive Material"
       }
     },
     {
       "id": "692c0594-1187-487c-9ab4-23e0fd9f6c11",
       "data": {
-        "entity_name": "1–2nd century AD"
+        "entity_name": "1–2nd century AD",
+        "related_relation_types": "Known Eruption"
       }
     }
   ],

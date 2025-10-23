@@ -13,43 +13,50 @@
     {
       "id": "6b974b7a-c3e0-4389-ba9b-f3039b85f256",
       "data": {
-        "entity_name": "Italy"
+        "entity_name": "Italy",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "6256a506-c289-496d-a70c-c6f0edf6700f",
       "data": {
-        "entity_name": "European Volcanic Regions"
+        "entity_name": "European Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "85d0cbf0-13ec-4dcb-8db2-01c83c554b01",
       "data": {
-        "entity_name": "Italian Peninsula Volcanic Provinces"
+        "entity_name": "Italian Peninsula Volcanic Provinces",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "ae315bfd-14e7-4d63-abb5-3f86010ac36f",
       "data": {
-        "entity_name": "Eruption Observed"
+        "entity_name": "Eruption Observed",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "024bdaad-e921-407f-bfda-47a3cec35ef4",
       "data": {
-        "entity_name": "Subduction zone / Continental crust (>25 km)"
+        "entity_name": "Subduction zone / Continental crust (>25 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "bfd73318-c820-4626-bd49-3d45e5c4ad48",
       "data": {
-        "entity_name": "Caldera"
+        "entity_name": "Caldera",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "11c05294-1412-4020-8eaa-f7ca4c5c4181",
       "data": {
-        "entity_name": "Trachyte / Trachydacite"
+        "entity_name": "Trachyte / Trachydacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -63,13 +70,15 @@
     {
       "id": "538e4769-6eec-4970-9392-912458b2826c",
       "data": {
-        "entity_name": "Foidite"
+        "entity_name": "Foidite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "883e7498-da2a-40ea-bc6c-036a0ba90e73",
       "data": {
-        "entity_name": "Evidence Uncertain"
+        "entity_name": "Evidence Uncertain",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -85,25 +94,29 @@
     {
       "id": "850a0ec9-e6b4-49d0-a78d-1e877ebc0b56",
       "data": {
-        "entity_name": "Sicily Volcanic Province"
+        "entity_name": "Sicily Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "f10d5701-1c8e-4c35-af5c-bf14e5fb6ff9",
       "data": {
-        "entity_name": "Composite"
+        "entity_name": "Composite",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "74263035-772b-4c6c-a5f6-40dab6dc21eb",
       "data": {
-        "entity_name": "Stratovolcano(es)"
+        "entity_name": "Stratovolcano(es)",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "ba31a7a5-e9d4-4322-8101-afe08f20db93",
       "data": {
-        "entity_name": "Trachybasalt / Tephrite Basanite"
+        "entity_name": "Trachybasalt / Tephrite Basanite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -119,19 +132,22 @@
     {
       "id": "2687dc1c-4945-47fe-b182-2e6da8fddd91",
       "data": {
-        "entity_name": "Aeolian Volcanic Arc"
+        "entity_name": "Aeolian Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "31092831-1eba-428b-93b0-b7f72382f815",
       "data": {
-        "entity_name": "Rhyolite"
+        "entity_name": "Rhyolite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
       "id": "6bf1b8e6-2282-4c10-bda4-9768de24a692",
       "data": {
-        "entity_name": "Eruption Dated"
+        "entity_name": "Eruption Dated",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -147,7 +163,8 @@
     {
       "id": "aa38e69f-60f0-4b65-ab1b-9c14f3943c72",
       "data": {
-        "entity_name": "Complex"
+        "entity_name": "Complex",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -163,13 +180,15 @@
     {
       "id": "c40cf416-23e6-4b5a-abd4-c3e57a40d4e4",
       "data": {
-        "entity_name": "Compound"
+        "entity_name": "Compound",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "a65dc80a-787c-48b8-8e6a-aed89361ecc9",
       "data": {
-        "entity_name": "Phonolite"
+        "entity_name": "Phonolite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -185,13 +204,15 @@
     {
       "id": "c1bce03a-fd54-46d0-b4ab-1402a9cd8a71",
       "data": {
-        "entity_name": "Stratovolcano"
+        "entity_name": "Stratovolcano",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "df46da31-f095-4a5a-840f-dcb1d35e497d",
       "data": {
-        "entity_name": "Andesite / Basaltic Andesite"
+        "entity_name": "Andesite / Basaltic Andesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -207,13 +228,15 @@
     {
       "id": "5e1b9fb9-01a3-4c8f-901a-74d569bd220c",
       "data": {
-        "entity_name": "Shield"
+        "entity_name": "Shield",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "2a718681-23c9-4ca0-91ed-a79502ba2c0d",
       "data": {
-        "entity_name": "Rift zone / Continental crust (>25 km)"
+        "entity_name": "Rift zone / Continental crust (>25 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -229,7 +252,8 @@
     {
       "id": "1d225064-e357-4fdc-8e93-10ae39910542",
       "data": {
-        "entity_name": "Trachyandesite / Basaltic Trachyandesite"
+        "entity_name": "Trachyandesite / Basaltic Trachyandesite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -245,7 +269,8 @@
     {
       "id": "bd919f7f-4665-4cc8-9dda-1985c50415d5",
       "data": {
-        "entity_name": "Phono-tephrite /  Tephri-phonolite"
+        "entity_name": "Phono-tephrite /  Tephri-phonolite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -268,31 +293,36 @@
     {
       "id": "2268eabc-310a-4af4-ac75-930a03da6a07",
       "data": {
-        "entity_name": "United States"
+        "entity_name": "United States",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "e198d747-f8f0-4858-a0b2-3c0a834f699a",
       "data": {
-        "entity_name": "Northwest Pacific Volcanic Regions"
+        "entity_name": "Northwest Pacific Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "6dc63579-8f76-46dc-9dda-ab2a49334cbd",
       "data": {
-        "entity_name": "Subduction zone / Crustal thickness unknown"
+        "entity_name": "Subduction zone / Crustal thickness unknown",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "2c775f45-46e1-45de-a6bc-1f4249b777e2",
       "data": {
-        "entity_name": "Mariana Volcanic Arc"
+        "entity_name": "Mariana Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "82e0ab43-e113-4427-8f8b-16883722cceb",
       "data": {
-        "entity_name": "Basalt / Picro-Basalt"
+        "entity_name": "Basalt / Picro-Basalt",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -308,19 +338,22 @@
     {
       "id": "ff8c02c2-bdba-4b8c-af19-52094ef4d441",
       "data": {
-        "entity_name": "North America Volcanic Regions"
+        "entity_name": "North America Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "a1e2bc46-d1f0-4bd5-b0dc-fcffb0ac5f86",
       "data": {
-        "entity_name": "Aleutian Ridge Volcanic Arc"
+        "entity_name": "Aleutian Ridge Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "4e11ab1b-2818-4840-8e1c-725eec485fdd",
       "data": {
-        "entity_name": "Subduction zone / Intermediate crust (15-25 km)"
+        "entity_name": "Subduction zone / Intermediate crust (15-25 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -333,7 +366,8 @@
     {
       "id": "e248b837-658e-4fdb-b95f-289c446be260",
       "data": {
-        "entity_name": "Eastern Africa Volcanic Regions"
+        "entity_name": "Eastern Africa Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -365,7 +399,8 @@
     {
       "id": "02d6ea0f-0350-424a-b0a5-09871533c774",
       "data": {
-        "entity_name": "Alaska Peninsula Volcanic Arc"
+        "entity_name": "Alaska Peninsula Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -378,19 +413,22 @@
     {
       "id": "904ab105-1894-4a33-b68d-c58e5f0f6ae7",
       "data": {
-        "entity_name": "Djibouti"
+        "entity_name": "Djibouti",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "d852c332-e2ff-4b07-9ed4-98c270c7f88a",
       "data": {
-        "entity_name": "Rift zone / Intermediate crust (15-25 km)"
+        "entity_name": "Rift zone / Intermediate crust (15-25 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "4d90015f-1a8f-4143-a154-2924a52710d3",
       "data": {
-        "entity_name": "Fissure vent(s)"
+        "entity_name": "Fissure vent(s)",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -406,7 +444,8 @@
     {
       "id": "1a6c12f1-593e-41e6-aba4-b1dbb9e35382",
       "data": {
-        "entity_name": "Lava dome(s)"
+        "entity_name": "Lava dome(s)",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -422,31 +461,36 @@
     {
       "id": "5cefa139-d34b-481e-949a-316a89ba84db",
       "data": {
-        "entity_name": "Eastern Pacific Volcanic Regions"
+        "entity_name": "Eastern Pacific Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "2d6576cf-3e99-4c46-bbdf-126f506067fa",
       "data": {
-        "entity_name": "Northeast Pacific Rifts Volcanic Province"
+        "entity_name": "Northeast Pacific Rifts Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "d72f5685-f1d3-4ecc-96ce-5fe4df5c42d0",
       "data": {
-        "entity_name": "Undersea Features"
+        "entity_name": "Undersea Features",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "88d18f27-c2f9-4ee9-9e5f-01b477532054",
       "data": {
-        "entity_name": "Cluster"
+        "entity_name": "Cluster",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "2e7c84c1-662b-4849-9f90-ae87f3cdfa93",
       "data": {
-        "entity_name": "Rift zone / Oceanic crust (< 15 km)"
+        "entity_name": "Rift zone / Oceanic crust (< 15 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -459,19 +503,22 @@
     {
       "id": "adf7508a-e0c0-4fd5-8f22-6395b86972ed",
       "data": {
-        "entity_name": "Papua New Guinea"
+        "entity_name": "Papua New Guinea",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "8ed100e2-b88a-47ba-831e-e6603ad5ac9e",
       "data": {
-        "entity_name": "Southwest Pacific Volcanic Regions"
+        "entity_name": "Southwest Pacific Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "02e98f52-c55c-431a-ac62-f9849932410a",
       "data": {
-        "entity_name": "Lava cone"
+        "entity_name": "Lava cone",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -487,7 +534,8 @@
     {
       "id": "747a0d63-c0e8-45c0-a78e-695d750d72ff",
       "data": {
-        "entity_name": "Bismarck Volcanic Arc"
+        "entity_name": "Bismarck Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -501,19 +549,22 @@
     {
       "id": "e9496ee4-2898-4015-98ff-c759c0a3170f",
       "data": {
-        "entity_name": "Antarctic-Scotia Volcanic Regions"
+        "entity_name": "Antarctic-Scotia Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "f82f4053-874b-4e4a-8d38-b3bd655c0a65",
       "data": {
-        "entity_name": "United Kingdom"
+        "entity_name": "United Kingdom",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "fbfd88b6-1e7f-4063-bedf-ba306d7e2dda",
       "data": {
-        "entity_name": "Subduction zone / Oceanic crust (< 15 km)"
+        "entity_name": "Subduction zone / Oceanic crust (< 15 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -551,13 +602,15 @@
     {
       "id": "1064c5d6-a0a2-449f-b75f-e6d4467fdbed",
       "data": {
-        "entity_name": "Ethiopia"
+        "entity_name": "Ethiopia",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "81281ba4-fa83-4992-ab8c-718d43980edb",
       "data": {
-        "entity_name": "Afar Rift Volcanic Province"
+        "entity_name": "Afar Rift Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -571,19 +624,22 @@
     {
       "id": "fa09daac-6b62-4e5b-bd77-73a06fdb21c9",
       "data": {
-        "entity_name": "Minor (Basaltic)"
+        "entity_name": "Minor (Basaltic)",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
       "id": "b9c08143-fdc6-43e8-8a98-77c94c02a18a",
       "data": {
-        "entity_name": "Explosion crater(s)"
+        "entity_name": "Explosion crater(s)",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "940e6993-fa81-4965-a389-e942dc9e32fa",
       "data": {
-        "entity_name": "No Data (checked)"
+        "entity_name": "No Data (checked)",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -596,13 +652,15 @@
     {
       "id": "80359920-1914-407d-951d-96e11736ee48",
       "data": {
-        "entity_name": "Kenya"
+        "entity_name": "Kenya",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "605ad2f4-c837-4dac-83c1-23418941b548",
       "data": {
-        "entity_name": "Kenyan Rift Volcanic Province"
+        "entity_name": "Kenyan Rift Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -625,25 +683,29 @@
     {
       "id": "3a36d5eb-b58f-48d8-a381-d051c83c88c3",
       "data": {
-        "entity_name": "Cabo Verde"
+        "entity_name": "Cabo Verde",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "2ddcf429-dc8c-4413-b0e7-2248ca85c45a",
       "data": {
-        "entity_name": "Northern Africa Volcanic Regions"
+        "entity_name": "Northern Africa Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "18703179-6b1d-4dfe-809d-b7d84e389584",
       "data": {
-        "entity_name": "Cape Verde Hotspot Volcano Group"
+        "entity_name": "Cape Verde Hotspot Volcano Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "0d5c3125-7d18-4be5-8999-92b011c12c16",
       "data": {
-        "entity_name": "Intraplate / Intermediate crust (15-25 km)"
+        "entity_name": "Intraplate / Intermediate crust (15-25 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -670,13 +732,15 @@
     {
       "id": "6fc1e6a8-6acd-47cd-a2d7-a6175034ce8e",
       "data": {
-        "entity_name": "El Salvador"
+        "entity_name": "El Salvador",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "5194b2d7-e9ef-48dc-96b7-0ed743bf7ee9",
       "data": {
-        "entity_name": "Middle America-Caribbean Volcanic Regions"
+        "entity_name": "Middle America-Caribbean Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -689,7 +753,8 @@
     {
       "id": "cfe86b5d-6575-4e01-9ecc-0ff7f9297f7c",
       "data": {
-        "entity_name": "Evidence Credible"
+        "entity_name": "Evidence Credible",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
@@ -719,25 +784,29 @@
     {
       "id": "dc9f8302-0e45-4377-844f-a9216c3f2f44",
       "data": {
-        "entity_name": "Comoros"
+        "entity_name": "Comoros",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "a0623226-e8fa-48ba-a885-a026cea46e22",
       "data": {
-        "entity_name": "Somalian-Antarctic Volcanic Regions"
+        "entity_name": "Somalian-Antarctic Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "d154e661-4843-4cee-b953-f85e70039186",
       "data": {
-        "entity_name": "Intraplate / Oceanic crust (< 15 km)"
+        "entity_name": "Intraplate / Oceanic crust (< 15 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
       "id": "a780c192-e45b-4c9f-8923-07349fe8a69a",
       "data": {
-        "entity_name": "Comoros Hotspot Volcano Group"
+        "entity_name": "Comoros Hotspot Volcano Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -760,13 +829,15 @@
     {
       "id": "dc404578-7b44-4820-9ac7-eeaf05cdc278",
       "data": {
-        "entity_name": "Solomon Islands"
+        "entity_name": "Solomon Islands",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "b960791e-d039-48e4-8475-47a7aeb6dd3e",
       "data": {
-        "entity_name": "Solomon Volcanic Arc"
+        "entity_name": "Solomon Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -782,7 +853,8 @@
     {
       "id": "d7928e71-742a-4081-85d8-2ad35aa45b78",
       "data": {
-        "entity_name": "Hawaiian-Emperor Hotspot Volcano Group"
+        "entity_name": "Hawaiian-Emperor Hotspot Volcano Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -803,7 +875,8 @@
     {
       "id": "87fc0c01-ec6d-468c-a154-caa9fd68934f",
       "data": {
-        "entity_name": "Trobriand Volcanic Arc"
+        "entity_name": "Trobriand Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -829,7 +902,8 @@
     {
       "id": "816d929c-a745-4e31-9382-aa961077bb4a",
       "data": {
-        "entity_name": "High Cascades Volcanic Arc"
+        "entity_name": "High Cascades Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -882,7 +956,8 @@
     {
       "id": "b851d3ca-f1cd-4d42-8a60-e5669a4a0e8c",
       "data": {
-        "entity_name": "Ethiopia-Djibouti"
+        "entity_name": "Ethiopia-Djibouti",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -897,13 +972,15 @@
     {
       "id": "3c5d5690-7eff-4ef2-bc05-7ea1ee3d2b2e",
       "data": {
-        "entity_name": "South Africa"
+        "entity_name": "South Africa",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "7c731345-6bc0-4fd9-bd86-12be2aa9047b",
       "data": {
-        "entity_name": "Shield(s)"
+        "entity_name": "Shield(s)",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -919,7 +996,8 @@
     {
       "id": "a4d20b70-d005-4f7f-8b78-a3e58d5affdf",
       "data": {
-        "entity_name": "Dacite"
+        "entity_name": "Dacite",
+        "related_relation_types": "Dominant Rock Type"
       }
     },
     {
@@ -944,13 +1022,15 @@
     {
       "id": "0a62c7a3-ceba-49af-8897-fcff6a213bac",
       "data": {
-        "entity_name": "Australia"
+        "entity_name": "Australia",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "9d236056-dde6-47f9-808c-95baa6b8f2e6",
       "data": {
-        "entity_name": "Kerguelen Hotspot Volcano Group"
+        "entity_name": "Kerguelen Hotspot Volcano Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -966,7 +1046,8 @@
     {
       "id": "3242f442-5f65-41ca-a2c4-c74a2df44c89",
       "data": {
-        "entity_name": "Tanzania"
+        "entity_name": "Tanzania",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -979,13 +1060,15 @@
     {
       "id": "59b81820-0220-4578-9c50-faa72bc76ab3",
       "data": {
-        "entity_name": "Nicaragua"
+        "entity_name": "Nicaragua",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "35362fee-d0d1-463a-aa8d-5dad4267aa61",
       "data": {
-        "entity_name": "Central America Volcanic Arc"
+        "entity_name": "Central America Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -998,7 +1081,8 @@
     {
       "id": "b7829be2-63e4-4a80-9b6b-f00e7a9f1e29",
       "data": {
-        "entity_name": "Southern Pacific Volcanic Regions"
+        "entity_name": "Southern Pacific Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -1013,7 +1097,8 @@
     {
       "id": "a54b6205-fa0a-4f4d-804d-259ec51e32e9",
       "data": {
-        "entity_name": "Eritrea"
+        "entity_name": "Eritrea",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -1049,25 +1134,29 @@
     {
       "id": "9cafb647-3a44-4b1a-a4ac-e331a9c52f9a",
       "data": {
-        "entity_name": "Cameroon"
+        "entity_name": "Cameroon",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "cbb64b8b-b8e6-47bb-ab90-ddf1fc7c1575",
       "data": {
-        "entity_name": "Cameroon Hotspot Volcano Group"
+        "entity_name": "Cameroon Hotspot Volcano Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "05bba421-a414-4389-9971-5bcb47eede19",
       "data": {
-        "entity_name": "Volcanic field"
+        "entity_name": "Volcanic field",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
       "id": "fa4ce6c9-8cc0-4ff6-8068-d7d123792ef8",
       "data": {
-        "entity_name": "Intraplate / Continental crust (>25 km)"
+        "entity_name": "Intraplate / Continental crust (>25 km)",
+        "related_relation_types": "Tectonic Setting"
       }
     },
     {
@@ -1100,19 +1189,22 @@
     {
       "id": "68a3f155-446b-43da-8162-7a7b95ea6c6a",
       "data": {
-        "entity_name": "Tonga-Kermadec Volcanic Regions"
+        "entity_name": "Tonga-Kermadec Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "a3db61fe-ca4c-4b0f-86f3-977237b17b96",
       "data": {
-        "entity_name": "New Zealand"
+        "entity_name": "New Zealand",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "514140ab-2084-4452-ab97-715cce0caa38",
       "data": {
-        "entity_name": "Northern Kermadec Volcanic Arc"
+        "entity_name": "Northern Kermadec Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1142,7 +1234,8 @@
     {
       "id": "74df8459-6c37-4e61-a56a-706a0207d40e",
       "data": {
-        "entity_name": "France"
+        "entity_name": "France",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -1158,7 +1251,8 @@
     {
       "id": "a612a064-2718-44b5-a295-8a785f132c0e",
       "data": {
-        "entity_name": "Taupo Volcanic Zone"
+        "entity_name": "Taupo Volcanic Zone",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1174,19 +1268,22 @@
     {
       "id": "3a65c251-4636-4867-8768-38af9d59f7c3",
       "data": {
-        "entity_name": "Peru"
+        "entity_name": "Peru",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "b2917952-4dca-435c-bbd0-7d4616f74869",
       "data": {
-        "entity_name": "South America Volcanic Regions"
+        "entity_name": "South America Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "eddd03ca-3435-4811-b7ea-38558a16d79f",
       "data": {
-        "entity_name": "Central Andean Volcanic Arc"
+        "entity_name": "Central Andean Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1301,13 +1398,15 @@
     {
       "id": "b2f0fa13-ae54-46fc-8393-c114f7c9496e",
       "data": {
-        "entity_name": "Spain"
+        "entity_name": "Spain",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "a77f0557-c8a9-4d18-870c-e8432d443a72",
       "data": {
-        "entity_name": "Canary Volcanic Province"
+        "entity_name": "Canary Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1371,7 +1470,8 @@
     {
       "id": "b479405f-08b4-4a42-b206-3c44559ee236",
       "data": {
-        "entity_name": "Stratovolcano?"
+        "entity_name": "Stratovolcano?",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -1387,7 +1487,8 @@
     {
       "id": "1288e6a9-ecf3-4b48-af4a-da6c695de6cf",
       "data": {
-        "entity_name": "Wrangell Volcanic Arc"
+        "entity_name": "Wrangell Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1418,7 +1519,8 @@
     {
       "id": "22962f6b-9140-472b-bce9-a42d4d88b10e",
       "data": {
-        "entity_name": "Main Ethiopian Rift Volcanic Province"
+        "entity_name": "Main Ethiopian Rift Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1456,7 +1558,8 @@
     {
       "id": "1a353f7d-6c70-4e08-afd0-204efa52c59f",
       "data": {
-        "entity_name": "New Ireland Volcanic Arc"
+        "entity_name": "New Ireland Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1484,19 +1587,22 @@
     {
       "id": "dcb15a49-62f9-49e3-bb26-65239cb2988c",
       "data": {
-        "entity_name": "Turkiye"
+        "entity_name": "Turkiye",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "f673b57d-e54f-42a0-b630-c98e5deb9af7",
       "data": {
-        "entity_name": "Arabia-Central Asia Volcanic Regions"
+        "entity_name": "Arabia-Central Asia Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "f5438e6a-1635-4f30-85b9-e1b3833cb3ce",
       "data": {
-        "entity_name": "Central Anatolian Volcanic Province"
+        "entity_name": "Central Anatolian Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1519,7 +1625,8 @@
     {
       "id": "cf29a8cd-3b59-4ea7-ad21-616f255ddddb",
       "data": {
-        "entity_name": "Garibaldi Volcanic Arc"
+        "entity_name": "Garibaldi Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1540,13 +1647,15 @@
     {
       "id": "3cdc2fd4-7ac1-41a9-9fec-53a36e8bb7b4",
       "data": {
-        "entity_name": "Sudan"
+        "entity_name": "Sudan",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "c9a07543-cd47-4e64-8a59-4b854604cf0f",
       "data": {
-        "entity_name": "Darfur-Bayuda Volcanic Province"
+        "entity_name": "Darfur-Bayuda Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1593,7 +1702,8 @@
     {
       "id": "5d35ee47-a035-4dcf-94cf-9ae35cc62529",
       "data": {
-        "entity_name": "Maar"
+        "entity_name": "Maar",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -1648,7 +1758,8 @@
     {
       "id": "6cc3a7c5-05b6-410a-8b02-d36bc7b0d6cc",
       "data": {
-        "entity_name": "Canada"
+        "entity_name": "Canada",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -1661,13 +1772,15 @@
     {
       "id": "7eb1e921-fef2-4a1f-864b-423ed25f870f",
       "data": {
-        "entity_name": "Albertine Rift Volcanic Province"
+        "entity_name": "Albertine Rift Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "038179b8-c21d-43b7-86a5-d1813e639be4",
       "data": {
-        "entity_name": "Uganda"
+        "entity_name": "Uganda",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -1680,7 +1793,8 @@
     {
       "id": "7ba28168-190b-4516-bee8-58e6070979cc",
       "data": {
-        "entity_name": "Tuff ring(s)"
+        "entity_name": "Tuff ring(s)",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -1743,7 +1857,8 @@
     {
       "id": "e983d38e-32d3-4bc1-8021-aadc761c01a0",
       "data": {
-        "entity_name": "Yellowstone-Snake River Hotspot Volcano Group"
+        "entity_name": "Yellowstone-Snake River Hotspot Volcano Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1757,13 +1872,15 @@
     {
       "id": "12a3ea7f-5faf-4329-94fc-9ce509ff59e9",
       "data": {
-        "entity_name": "Unrest / Holocene"
+        "entity_name": "Unrest / Holocene",
+        "related_relation_types": "Activity Evidence"
       }
     },
     {
       "id": "d01b396d-b103-4bc7-8418-42fcd8cd9f61",
       "data": {
-        "entity_name": "Middle Kermadec Volcanic Arc"
+        "entity_name": "Middle Kermadec Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1794,19 +1911,22 @@
     {
       "id": "99ef0e9b-d5bf-4738-9981-d28f759da109",
       "data": {
-        "entity_name": "Mongolia"
+        "entity_name": "Mongolia",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "2ca7dca0-3e40-4707-b178-da670c5f2934",
       "data": {
-        "entity_name": "Central East Asia Volcanic Province"
+        "entity_name": "Central East Asia Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "d1f34c3b-eec7-48a8-98ee-26b48c538436",
       "data": {
-        "entity_name": "Eastern Asia Volcanic Regions"
+        "entity_name": "Eastern Asia Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -1833,7 +1953,8 @@
     {
       "id": "1656f4a2-10e8-4153-9bdc-d85db7d1c057",
       "data": {
-        "entity_name": "High Lava Plains Volcanic Province"
+        "entity_name": "High Lava Plains Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1884,7 +2005,8 @@
     {
       "id": "50dcd831-b507-4fc9-a621-3b50251e54df",
       "data": {
-        "entity_name": "Queen Charlotte Volcano Group"
+        "entity_name": "Queen Charlotte Volcano Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -1900,7 +2022,8 @@
     {
       "id": "6f7484bc-fd1a-4901-a162-db1afb4789ef",
       "data": {
-        "entity_name": "Northern Cordilleran Volcanic Province"
+        "entity_name": "Northern Cordilleran Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2061,7 +2184,8 @@
     {
       "id": "22c4833b-e6b6-4291-b45e-0b691456e989",
       "data": {
-        "entity_name": "Fissure vent"
+        "entity_name": "Fissure vent",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -2116,7 +2240,8 @@
     {
       "id": "4ab4da9c-f48a-4c64-8fe0-ccfdd5ecf028",
       "data": {
-        "entity_name": "Pyroclastic cone(s)"
+        "entity_name": "Pyroclastic cone(s)",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -2162,7 +2287,8 @@
     {
       "id": "3f4d2096-ca38-422b-b29c-4e370391374f",
       "data": {
-        "entity_name": "Madagascar"
+        "entity_name": "Madagascar",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -2178,19 +2304,22 @@
     {
       "id": "7d8a2543-8022-49d4-bb02-4c8f8445108b",
       "data": {
-        "entity_name": "Norway"
+        "entity_name": "Norway",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "c0a39bf4-e6e8-4e43-a611-5144d7242982",
       "data": {
-        "entity_name": "Atlantic Ocean Volcanic Regions"
+        "entity_name": "Atlantic Ocean Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "00662e8b-7c8b-4bd1-931c-869dcd486ec2",
       "data": {
-        "entity_name": "Arctic Ridge Volcanic Province"
+        "entity_name": "Arctic Ridge Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2224,7 +2353,8 @@
     {
       "id": "6f185b10-9086-4d9f-afb8-fec1e01183b7",
       "data": {
-        "entity_name": "DR Congo-Rwanda"
+        "entity_name": "DR Congo-Rwanda",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -2247,13 +2377,15 @@
     {
       "id": "2d8d8beb-767e-48ef-8f2b-76ad50e6dc6e",
       "data": {
-        "entity_name": "Georgia"
+        "entity_name": "Georgia",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "aaffa44e-950f-4143-aaf6-5f1006c0d7de",
       "data": {
-        "entity_name": "Caucasus Volcanic Province"
+        "entity_name": "Caucasus Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2274,7 +2406,8 @@
     {
       "id": "d79ad5e5-5ffd-4b3a-875f-6596d112e145",
       "data": {
-        "entity_name": "Lesser Antilles Volcanic Arc"
+        "entity_name": "Lesser Antilles Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2288,7 +2421,8 @@
     {
       "id": "7c5cbc2b-b37a-4092-818b-cc67ca44662b",
       "data": {
-        "entity_name": "Caldera(s)"
+        "entity_name": "Caldera(s)",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -2303,7 +2437,8 @@
     {
       "id": "4e9c82ef-bdde-47df-8ff0-36d19ac5f7aa",
       "data": {
-        "entity_name": "Tuff cone(s)"
+        "entity_name": "Tuff cone(s)",
+        "related_relation_types": "Volcanic Type"
       }
     },
     {
@@ -2358,7 +2493,8 @@
     {
       "id": "fae70f5c-8cf2-40f5-a3f3-c6921e312a37",
       "data": {
-        "entity_name": "South Sandwich Volcanic Arc"
+        "entity_name": "South Sandwich Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2379,7 +2515,8 @@
     {
       "id": "74c52f63-6b25-4c8e-9819-3eea736ae0f4",
       "data": {
-        "entity_name": "Saint Kitts and Nevis"
+        "entity_name": "Saint Kitts and Nevis",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -2450,13 +2587,15 @@
     {
       "id": "840ea31c-11d3-4537-96e2-43ce5ad31912",
       "data": {
-        "entity_name": "Basin and Range Volcanic Province"
+        "entity_name": "Basin and Range Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "55cafc63-6e67-4357-8ba2-f45709c652d2",
       "data": {
-        "entity_name": "Minor"
+        "entity_name": "Minor",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
@@ -2541,7 +2680,8 @@
     {
       "id": "7f192505-33ea-4bf0-a10c-a22cb6490678",
       "data": {
-        "entity_name": "Uganda-Rwanda"
+        "entity_name": "Uganda-Rwanda",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -2555,19 +2695,22 @@
     {
       "id": "b832591a-2023-432d-97af-6d1feeb7f02c",
       "data": {
-        "entity_name": "Fiji"
+        "entity_name": "Fiji",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "4ebe6750-cf94-4413-b095-126fe80db124",
       "data": {
-        "entity_name": "Fiji Volcanic Arc"
+        "entity_name": "Fiji Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "a0e147c2-9670-4811-98a9-eee554a6147e",
       "data": {
-        "entity_name": "Minor (Silicic)"
+        "entity_name": "Minor (Silicic)",
+        "related_relation_types": "Volcano Landform"
       }
     },
     {
@@ -2605,13 +2748,15 @@
     {
       "id": "1a7e73d7-1fff-439d-a844-97e5ef340102",
       "data": {
-        "entity_name": "Eastern Australia Volcanic Regions"
+        "entity_name": "Eastern Australia Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "ec9db3d3-e930-41bc-89ce-cf0383f0acb5",
       "data": {
-        "entity_name": "Southeastern Australia Volcanic Province"
+        "entity_name": "Southeastern Australia Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2624,7 +2769,8 @@
     {
       "id": "2938cabe-7364-44e7-a291-57946a7ba01d",
       "data": {
-        "entity_name": "Rukwa Rift Volcanic Province"
+        "entity_name": "Rukwa Rift Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2647,7 +2793,8 @@
     {
       "id": "30815a9b-1317-4c5c-99bf-722441af5385",
       "data": {
-        "entity_name": "DR Congo"
+        "entity_name": "DR Congo",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -2694,13 +2841,15 @@
     {
       "id": "15206d17-0c47-431b-a2c3-32dbf9aa0a08",
       "data": {
-        "entity_name": "Burma (Myanmar)"
+        "entity_name": "Burma (Myanmar)",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "203f20ba-8f2b-42db-8dfa-f6acd262f3ea",
       "data": {
-        "entity_name": "Southeast Asia Volcanic Province"
+        "entity_name": "Southeast Asia Volcanic Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2715,7 +2864,8 @@
     {
       "id": "f964ee41-972f-4aac-b789-b41dd2a97566",
       "data": {
-        "entity_name": "Marion Hotspot Volcano Group"
+        "entity_name": "Marion Hotspot Volcano Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -2754,7 +2904,8 @@
     {
       "id": "557e18be-26be-4b50-a5b7-3823493788fa",
       "data": {
-        "entity_name": "Equatorial Guinea"
+        "entity_name": "Equatorial Guinea",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -2768,7 +2919,8 @@
     {
       "id": "d0b86e6d-4646-487d-a423-efb586df7c35",
       "data": {
-        "entity_name": "El Salvador-Guatemala"
+        "entity_name": "El Salvador-Guatemala",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -2916,19 +3068,22 @@
     {
       "id": "8f146cc2-235c-48a3-8106-83adefdef17f",
       "data": {
-        "entity_name": "Taiwan"
+        "entity_name": "Taiwan",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "6d4d9f77-f246-4f87-81d6-39ed9ae016d5",
       "data": {
-        "entity_name": "Western Pacific Volcanic Regions"
+        "entity_name": "Western Pacific Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
       "id": "ae583fb7-f270-4e9f-a2db-3d28b8aedf8d",
       "data": {
-        "entity_name": "Ryukyu Volcanic Arc"
+        "entity_name": "Ryukyu Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -3004,7 +3159,8 @@
     {
       "id": "a36bb035-f86c-4a18-abdc-3fa83da8bfb5",
       "data": {
-        "entity_name": "South Korea"
+        "entity_name": "South Korea",
+        "related_relation_types": "Country"
       }
     },
     {
@@ -3027,13 +3183,15 @@
     {
       "id": "a64c6111-9332-4cae-89e6-11100974a51a",
       "data": {
-        "entity_name": "Samoa"
+        "entity_name": "Samoa",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "d604822c-8ad4-4ca0-b43b-a825c30d1946",
       "data": {
-        "entity_name": "Samoan Hotspot Volcano Group"
+        "entity_name": "Samoan Hotspot Volcano Group",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -3066,13 +3224,15 @@
     {
       "id": "e4aed6a4-be96-4fea-9fa2-b62cc3e01685",
       "data": {
-        "entity_name": "Germany"
+        "entity_name": "Germany",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "2e6ac05b-c123-4cff-b6b9-5df757e2aa88",
       "data": {
-        "entity_name": "Central European Province"
+        "entity_name": "Central European Province",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
@@ -3110,19 +3270,22 @@
     {
       "id": "e9c45bb1-afaf-4635-aa20-6a873c1861fd",
       "data": {
-        "entity_name": "Indonesia"
+        "entity_name": "Indonesia",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "5ab6ae91-ad2d-4126-902d-1ac8603dec8f",
       "data": {
-        "entity_name": "Sunda Volcanic Arc"
+        "entity_name": "Sunda Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
       "id": "704812c1-14ef-4b91-a98a-ff651522e300",
       "data": {
-        "entity_name": "Sunda-Banda Volcanic Regions"
+        "entity_name": "Sunda-Banda Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
       }
     },
     {
@@ -3143,13 +3306,15 @@
     {
       "id": "b29daf79-1b13-41c5-93fc-ced9c83472a0",
       "data": {
-        "entity_name": "Greece"
+        "entity_name": "Greece",
+        "related_relation_types": "Country"
       }
     },
     {
       "id": "b5cfde64-38e4-4d28-89fd-240a7514358a",
       "data": {
-        "entity_name": "Hellenic Volcanic Arc"
+        "entity_name": "Hellenic Volcanic Arc",
+        "related_relation_types": "Volcanic Province"
       }
     },
     {
