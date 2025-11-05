@@ -578,7 +578,7 @@
       "id": "265bc141-b608-4d7f-8786-d8d5f96d0e41",
       "data": {
         "entity_name": "Island-arc volcano",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -694,7 +694,7 @@
       "id": "5f1e5865-2895-4c6e-a87b-e360f74f8c74",
       "data": {
         "entity_name": "Active",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -1166,7 +1166,7 @@
       "id": "7419dafe-2d4c-45d8-a783-9a858009c2ba",
       "data": {
         "entity_name": "Monogenetic volcanic field",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -1210,7 +1210,7 @@
       "id": "5977c2e8-106a-4d5c-9fc3-0a75b048efe1",
       "data": {
         "entity_name": "Basaltic Shield Volcano",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -1303,7 +1303,7 @@
       "id": "e7e2f334-59b9-4ac9-9e1a-318c4889bcd7",
       "data": {
         "entity_name": "Shield Volcano",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -1526,7 +1526,7 @@
       "id": "39bed7cf-f654-492e-96c4-d87e6e32e9f0",
       "data": {
         "entity_name": "Submarine Volcano",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -1718,7 +1718,7 @@
       "id": "f0c853b3-2d51-4e44-b561-d61ed0118846",
       "data": {
         "entity_name": "Off-rift volcano",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -1862,7 +1862,7 @@
       "id": "0a2d515e-d5de-4629-b632-6d659ec1927a",
       "data": {
         "entity_name": "Andesitic Caldera",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -2122,7 +2122,7 @@
       "id": "cb71ca6d-fc9e-43d9-9c74-cb1dd0e4766b",
       "data": {
         "entity_name": "Basaltic volcanic field",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -2236,7 +2236,7 @@
       "id": "bd110bbe-2f73-43bc-a4bd-a9d16dbc4ddb",
       "data": {
         "entity_name": "Submarine volcano",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -2856,7 +2856,7 @@
       "id": "4fd49ea2-9b64-4ded-a194-f5fc21cded7a",
       "data": {
         "entity_name": "Graben caldera",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -3201,7 +3201,7 @@
       "id": "92715a48-4782-4755-8546-d4bc00b78a18",
       "data": {
         "entity_name": "Silicic volcanic center",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -3396,7 +3396,7 @@
       "id": "224aa250-02c3-474d-8931-aa92dae3b65a",
       "data": {
         "entity_name": "Volcanic complex",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -3426,7 +3426,7 @@
       "id": "111d3358-9535-472d-940b-541eb12c2ea8",
       "data": {
         "entity_name": "Volcanic segment",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -3963,7 +3963,7 @@
       "id": "ea1b8e0f-a62c-4601-9df8-cb4c43f240f0",
       "data": {
         "entity_name": "Rhyolitic Volcano",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -4241,7 +4241,7 @@
       "id": "2220f4fc-5812-4f25-bc3d-abb119527a3f",
       "data": {
         "entity_name": "Quaternary composite volcano",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -4368,7 +4368,7 @@
       "id": "9c72860b-5ec6-4a67-bc04-a773c30da014",
       "data": {
         "entity_name": "Basaltic",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -4464,7 +4464,7 @@
       "id": "8c7ae669-2970-489d-b873-52b574ada48a",
       "data": {
         "entity_name": "Volcanic arc granitoid",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -4512,7 +4512,7 @@
       "id": "f7645eb0-8c4c-488e-9932-60b98a08fcd4",
       "data": {
         "entity_name": "Trachytic",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -5366,7 +5366,7 @@
       "id": "6e2d9451-6ea6-4ce0-9025-75c02297dc26",
       "data": {
         "entity_name": "Quaternary",
-        "related_relation_types": "Volcanic Type"
+        "related_relation_types": "Volcano Type"
       }
     },
     {
@@ -5845,7 +5845,7 @@
     {
       "id": "edcb9e24-e8c4-4add-aa87-08227e865892",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -5955,7 +5955,7 @@
     {
       "id": "bd03bf11-746d-4899-9c99-f08cdfb21b14",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -6025,7 +6025,7 @@
     {
       "id": "09779ab2-b21e-48a8-ad1a-f3178cec4ed5",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -6195,7 +6195,7 @@
     {
       "id": "41aa71ee-4eda-4ddc-9fe2-959f48e1a0e4",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -6245,7 +6245,7 @@
     {
       "id": "5393ef71-8983-4a82-9db0-a836b2e5f203",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -6365,7 +6365,7 @@
     {
       "id": "8b80e064-ba08-4766-addf-3dbb8c772b70",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -6455,7 +6455,7 @@
     {
       "id": "cc245f1e-270a-480f-b8bb-cc9d45f47b00",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -6505,7 +6505,7 @@
     {
       "id": "f18a447e-2c31-40ac-9f03-5e7ace233df6",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -6635,7 +6635,7 @@
     {
       "id": "5ce7269e-0b7d-469b-bfaf-6a8664d4f6cf",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -6745,7 +6745,7 @@
     {
       "id": "3c7f247b-df7b-428e-88fe-1fdd897c5bab",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -6895,7 +6895,7 @@
     {
       "id": "a7e8326b-c844-4ab6-ac6a-96c839fe2af5",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -7125,7 +7125,7 @@
     {
       "id": "08560def-662c-447b-8378-d10568f0919a",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -7165,7 +7165,7 @@
     {
       "id": "0ca62337-c20f-4d11-be10-ea147b0a3d12",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -7365,7 +7365,7 @@
     {
       "id": "55b73a25-ca4a-4343-9db7-f63920c9d96f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -7435,7 +7435,7 @@
     {
       "id": "8ac475d0-fe21-4acb-b1d2-6c88fc47a74d",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -7535,7 +7535,7 @@
     {
       "id": "27e04686-5b2c-4a83-85d5-5e20e2b473ff",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -7625,7 +7625,7 @@
     {
       "id": "b301fa90-dd4a-45aa-9701-6d7572a4fa10",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -7875,7 +7875,7 @@
     {
       "id": "26cdbd06-d968-4a83-962d-1e7ec32b1b52",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -7985,7 +7985,7 @@
     {
       "id": "9113e61d-6cac-46ca-85d8-5c4ad6f0be94",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -8285,7 +8285,7 @@
     {
       "id": "09dc8cd2-3282-465a-9281-e9226f2e5e06",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -8345,7 +8345,7 @@
     {
       "id": "b2c3b9f4-c652-4557-bce8-d8eeccb7c833",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -8445,7 +8445,7 @@
     {
       "id": "571067d2-5886-4e34-8083-9b0f10a30dbb",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -8515,7 +8515,7 @@
     {
       "id": "af00509e-3259-4b46-a03c-17442a3c8b03",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -8565,7 +8565,7 @@
     {
       "id": "44c368ac-5623-4b01-9720-69f47ebca6db",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -8685,7 +8685,7 @@
     {
       "id": "7c317573-20f5-4e6d-b3f7-aaccd298b3cd",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -8805,7 +8805,7 @@
     {
       "id": "f859ccd4-7b5c-4d4d-8964-13af11017e9c",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -9155,7 +9155,7 @@
     {
       "id": "52ba37c0-172c-4c61-b007-8df26e4ced1d",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -9275,7 +9275,7 @@
     {
       "id": "05115885-d1af-4b08-93e5-430ca285346c",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -9365,7 +9365,7 @@
     {
       "id": "43cebe8c-0e08-40f6-954b-39cdf0b8717f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -9505,7 +9505,7 @@
     {
       "id": "addf80fa-1fd8-4a1a-8f66-a17119db5650",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -9655,7 +9655,7 @@
     {
       "id": "34474bc7-a842-4358-b5d0-c614b8c00e66",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -9735,7 +9735,7 @@
     {
       "id": "a072618b-2614-4ff6-b7b4-403b541e7827",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -9835,7 +9835,7 @@
     {
       "id": "e1aa6f60-9384-43aa-9605-b12cd51e3585",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -9975,7 +9975,7 @@
     {
       "id": "e8ae3310-9b8c-45c1-aa70-81c2dddf168d",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -10075,7 +10075,7 @@
     {
       "id": "d6990c20-4160-475b-ac46-79ab29f16959",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -10195,7 +10195,7 @@
     {
       "id": "d3b79c9c-803f-4a36-ba49-e86542e2a1c6",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -10365,7 +10365,7 @@
     {
       "id": "5409517c-d7b4-4b4c-914b-de53d01eeeae",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -10475,7 +10475,7 @@
     {
       "id": "0a3869a2-d1a1-4d19-97ce-c5ce81d574d9",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -10665,7 +10665,7 @@
     {
       "id": "8f66f539-4b6c-4349-af5c-19ce1b62e6f9",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -10805,7 +10805,7 @@
     {
       "id": "296c0cd7-6c71-4a3e-804c-3eb8f2b0add8",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -10905,7 +10905,7 @@
     {
       "id": "acc305c5-58e9-4c8c-9b97-4edd877cbd20",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11035,7 +11035,7 @@
     {
       "id": "61ae450b-b8d5-4dd6-8fe4-9512654e2e19",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11075,7 +11075,7 @@
     {
       "id": "411a627a-4354-42f4-805c-b930bf2d152b",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11205,7 +11205,7 @@
     {
       "id": "f3e5ae62-40e8-457e-a7b6-0db19a7064c0",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11295,7 +11295,7 @@
     {
       "id": "e4a5dadb-6db9-4a19-9ad5-60e0fad4cb30",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11395,7 +11395,7 @@
     {
       "id": "da03021a-99bb-4322-a66c-c787d38050d9",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11565,7 +11565,7 @@
     {
       "id": "44b23729-53f5-411e-87f4-5182ed1a2162",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11615,7 +11615,7 @@
     {
       "id": "61d2cae5-81af-458d-b86b-d0ce955f1fe7",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11775,7 +11775,7 @@
     {
       "id": "18798d70-8c43-4af3-9131-05d77f2d5e23",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11885,7 +11885,7 @@
     {
       "id": "ad5e06ba-2e0f-4fc0-9421-0a3dd65932fa",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -11975,7 +11975,7 @@
     {
       "id": "107bba0f-9f1f-4a9c-b7b3-504ff3ecad61",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -12105,7 +12105,7 @@
     {
       "id": "3b25a3ad-7670-4de4-974b-169908e85268",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -12295,7 +12295,7 @@
     {
       "id": "d654cf28-a3d1-4b28-8a4a-31ab0507fb94",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -12475,7 +12475,7 @@
     {
       "id": "f45491b1-41fa-4d7b-b732-9b53bc2d44fb",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -12545,7 +12545,7 @@
     {
       "id": "2f5d25d4-e3bb-4305-a067-f00b66dd3030",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -12635,7 +12635,7 @@
     {
       "id": "c5d7b3b9-4b49-4085-bfa7-00ef39a888ab",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -12695,7 +12695,7 @@
     {
       "id": "3318cac3-8a5f-4ddb-aed0-1fb49423d8db",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -12835,7 +12835,7 @@
     {
       "id": "8a054757-d21d-47f7-b49b-863e1edde418",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -12925,7 +12925,7 @@
     {
       "id": "ecfb8ea5-311a-4bff-8c13-edd42f8a5dae",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -13005,7 +13005,7 @@
     {
       "id": "3f90b162-4fd9-4921-8012-c0b63bb9e06c",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -13185,7 +13185,7 @@
     {
       "id": "8b73e2e0-c032-41c9-998c-a081114d10c7",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -13355,7 +13355,7 @@
     {
       "id": "54c25647-7bcb-4c60-ab20-3f6e684eb350",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -13675,7 +13675,7 @@
     {
       "id": "5e9a84ba-2253-41d8-ac7c-a14732105a90",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -13735,7 +13735,7 @@
     {
       "id": "535a05ba-6f24-4c6c-84e7-f30911e62af4",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -13765,7 +13765,7 @@
     {
       "id": "45f18ad1-d12e-4bbc-9285-e4e025b2713f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -13885,7 +13885,7 @@
     {
       "id": "cceffc01-ea72-4ba0-9fbd-163998130d0f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14025,7 +14025,7 @@
     {
       "id": "5ce44a40-7501-4391-8764-2c4e94da768f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14085,7 +14085,7 @@
     {
       "id": "d00c379e-2e87-4302-a122-00ad6d68840f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14175,7 +14175,7 @@
     {
       "id": "ad65b182-747c-4191-9bc8-9ed24d154e39",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14315,7 +14315,7 @@
     {
       "id": "26274757-d4f0-44c2-bcb3-1079555d7432",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14385,7 +14385,7 @@
     {
       "id": "4283f1a3-7c28-4b4f-945d-5564a97fb39b",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14505,7 +14505,7 @@
     {
       "id": "986532ce-38c3-461a-a618-e61bf7fc6680",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14585,7 +14585,7 @@
     {
       "id": "596ff5ec-47df-4b6c-97a5-562e78392e51",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14695,7 +14695,7 @@
     {
       "id": "48549e1b-1263-4a70-ae9f-ef191199e2f9",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14825,7 +14825,7 @@
     {
       "id": "2ee037c2-7e8e-4bf8-80fa-a3df1c5003c2",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -14935,7 +14935,7 @@
     {
       "id": "84dd4ea5-f97c-45b3-8a45-9c986226326f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -15085,7 +15085,7 @@
     {
       "id": "8f569f37-ce4d-41a1-aba6-83d1a1c501ed",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -15225,7 +15225,7 @@
     {
       "id": "7aece4c1-cb6d-4e94-94dc-cfcceba23b5d",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -15375,7 +15375,7 @@
     {
       "id": "a96f94df-0ad5-45f0-8084-4cf70091912f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -15415,7 +15415,7 @@
     {
       "id": "3c1f02f4-9d47-4adb-abb1-6d3f3b9d7485",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -15455,7 +15455,7 @@
     {
       "id": "78da4e0c-6129-4530-8d7d-fb0252110fd8",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -15605,7 +15605,7 @@
     {
       "id": "d243c7a4-7ef5-4f0b-9dbb-b1e37c29349c",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -15785,7 +15785,7 @@
     {
       "id": "2e413d2b-8fbc-4148-8e31-4003d56a0d69",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -15865,7 +15865,7 @@
     {
       "id": "eb34a276-0a54-4a5f-918a-4baee97277fe",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -16085,7 +16085,7 @@
     {
       "id": "a893052a-7a81-4dc6-a460-5dee958c942a",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -16285,7 +16285,7 @@
     {
       "id": "28516798-8d53-4e3e-b796-f35f1daac2cc",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -16345,7 +16345,7 @@
     {
       "id": "0836cca0-ab30-4fcd-bece-61d1b6ee5e73",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -16585,7 +16585,7 @@
     {
       "id": "b0a9bf27-df34-4286-8033-1c978825daf4",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -16675,7 +16675,7 @@
     {
       "id": "a5b35abd-4d5f-41ea-98aa-198822b77ba9",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -16845,7 +16845,7 @@
     {
       "id": "ebd68ae9-1c8f-4baf-a83d-e14bffddf164",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -16895,7 +16895,7 @@
     {
       "id": "fbfa355a-40b9-441a-a312-2638213a1ff2",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -16965,7 +16965,7 @@
     {
       "id": "6995df83-e3b4-48c5-9c5d-98345102773a",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -17075,7 +17075,7 @@
     {
       "id": "fb53a49d-32aa-430e-8ab3-eb3eb2c0b174",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -17255,7 +17255,7 @@
     {
       "id": "0181a1cf-bdf8-43e0-99b3-3d24f62b825f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -17415,7 +17415,7 @@
     {
       "id": "05111337-8cb7-437c-bc87-6e6cae05d0d5",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -17495,7 +17495,7 @@
     {
       "id": "c1bd8ef2-c3c7-48f5-ad28-7479e534413f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -17695,7 +17695,7 @@
     {
       "id": "9251894f-cad8-4f25-b410-72df8db40e9b",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -17735,7 +17735,7 @@
     {
       "id": "86dd24ff-19bb-4f38-a439-fa718abcb5c7",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -17795,7 +17795,7 @@
     {
       "id": "75f15851-06c7-47e0-8637-9bd2ffbab921",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -17985,7 +17985,7 @@
     {
       "id": "7475b550-42ce-49a9-8be9-e471575a0417",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -18075,7 +18075,7 @@
     {
       "id": "2b6e2971-805c-43f6-b485-b44acddf5cbb",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -18585,7 +18585,7 @@
     {
       "id": "4422d54a-cbfe-41fe-8ef3-bc29dd71fdb0",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -18715,7 +18715,7 @@
     {
       "id": "6b037295-0aa7-4782-8b6a-84392c81d18f",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -18785,7 +18785,7 @@
     {
       "id": "1e4a9cfc-db14-4ef9-a2e1-9d3e14e4f791",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -18925,7 +18925,7 @@
     {
       "id": "8b551c03-0bf7-47c9-a916-e3e6a99d01a5",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -19005,7 +19005,7 @@
     {
       "id": "0f30863f-600e-4886-bca3-74c942ac0ed3",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -19135,7 +19135,7 @@
     {
       "id": "5d5d3830-5055-4743-b4ea-11ff53bffc9e",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -19295,7 +19295,7 @@
     {
       "id": "0b172cd6-a7df-4b43-af11-7bb4154e91dd",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -19305,7 +19305,7 @@
     {
       "id": "625df7bf-fb05-4d98-8131-9f6239b3e1de",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -19455,7 +19455,7 @@
     {
       "id": "af1bb154-21ea-4084-b71b-68db4e8017c8",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -19525,7 +19525,7 @@
     {
       "id": "331ec050-3f5a-49ee-932b-d02c74edfffe",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -19705,7 +19705,7 @@
     {
       "id": "06738955-3541-4c37-91e3-65bf87750ddd",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
@@ -19905,7 +19905,7 @@
     {
       "id": "da197ced-af55-4448-9621-d642b2ecdedc",
       "data": {
-        "type": "Volcanic Type",
+        "type": "Volcano Type",
         "weight": 1,
         "properties": {}
       },
