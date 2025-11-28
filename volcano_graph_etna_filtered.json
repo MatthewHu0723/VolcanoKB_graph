@@ -1,0 +1,210 @@
+{
+  "nodes": [
+    {
+      "id": "09ecbf1a-6cea-4b7e-a824-0b1b6fb2117d",
+      "data": {
+        "entity_name": "European Volcanic Regions",
+        "related_relation_types": "Volcanic Region"
+      }
+    },
+    {
+      "id": "9c0ec4d9-304f-4196-90e5-5348335de12c",
+      "data": {
+        "entity_name": "Italian Peninsula Volcanic Provinces",
+        "related_relation_types": "Volcanic Province"
+      }
+    },
+    {
+      "id": "9d00ecbc-f89f-4a8e-acbe-20147af1f3fc",
+      "data": {
+        "entity_name": "Italy National Institute of Geophysics and Volcanology",
+        "related_relation_types": "Monitoring Method"
+      }
+    },
+    {
+      "id": "3887e901-938d-4a1c-9890-59b05965b61c",
+      "data": {
+        "entity_name": "Seismic Monitoring",
+        "related_relation_types": "Monitoring Method"
+      }
+    },
+    {
+      "id": "13888e3f-d451-4070-8dbf-07c7e7447143",
+      "data": {
+        "entity_name": "Subduction zone / Continental crust (>25 km)",
+        "related_relation_types": "Tectonic Setting"
+      }
+    },
+    {
+      "id": "a3ee0840-b69e-4115-94a2-073f3ebb2a06",
+      "data": {
+        "entity_name": "Tephra",
+        "related_relation_types": "Eruptive Material"
+      }
+    },
+    {
+      "id": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "data": {
+        "volcano": "Etna",
+        "Volcano Name": "Etna",
+        "Latitude": "37.734",
+        "Longitude": "14.999",
+        "Elevation (m)": "3329",
+        "Volcanic Activity": "Active",
+        "Known Eruption": [
+          "2001"
+        ]
+      }
+    },
+    {
+      "id": "26e750b6-bf49-43bb-a9c4-3493367de245",
+      "data": {
+        "entity_name": "Italy",
+        "related_relation_types": "Country"
+      }
+    },
+    {
+      "id": "70e42244-74cb-4e55-98b2-c12ab414aa74",
+      "data": {
+        "entity_name": "Stratovolcano",
+        "related_relation_types": "Volcano Landform"
+      }
+    },
+    {
+      "id": "a7c38fd8-e0f3-436d-997b-4b4e6e5fc3de",
+      "data": {
+        "entity_name": "Eruption Observed",
+        "related_relation_types": "Activity Evidence"
+      }
+    },
+    {
+      "id": "eda4831e-45b8-4a1f-89b5-3e286c4711d1",
+      "data": {
+        "entity_name": "Basalt / Trachybasalt",
+        "related_relation_types": "Dominant Rock Type"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "56e43191-1a2d-41a6-8369-2fe41a604e61",
+      "data": {
+        "type": "Country",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "26e750b6-bf49-43bb-a9c4-3493367de245"
+    },
+    {
+      "id": "7327c1af-c03d-4b17-981d-964dc548c420",
+      "data": {
+        "type": "Volcanic Region",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "09ecbf1a-6cea-4b7e-a824-0b1b6fb2117d"
+    },
+    {
+      "id": "a73da407-f45e-4631-a269-741c25edb1e0",
+      "data": {
+        "type": "Volcanic Province",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "9c0ec4d9-304f-4196-90e5-5348335de12c"
+    },
+    {
+      "id": "eb218f71-fc21-457e-ac56-1d6410ab77cf",
+      "data": {
+        "type": "Volcano Landform",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "70e42244-74cb-4e55-98b2-c12ab414aa74"
+    },
+    {
+      "id": "7f99345d-9e65-4130-a031-e81ee1a378db",
+      "data": {
+        "type": "Volcanic Type",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "70e42244-74cb-4e55-98b2-c12ab414aa74"
+    },
+    {
+      "id": "a4261793-2235-43e1-92bc-d2163217599f",
+      "data": {
+        "type": "Activity Evidence",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "a7c38fd8-e0f3-436d-997b-4b4e6e5fc3de"
+    },
+    {
+      "id": "e6e41c12-f7eb-4031-aee8-cd87ac78911f",
+      "data": {
+        "type": "Tectonic Setting",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "13888e3f-d451-4070-8dbf-07c7e7447143"
+    },
+    {
+      "id": "8bd199af-7bc7-487b-a693-d5870e50a32e",
+      "data": {
+        "type": "Monitoring Method",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "9d00ecbc-f89f-4a8e-acbe-20147af1f3fc"
+    },
+    {
+      "id": "85f550ff-5f42-4d99-aac3-83e83f72540d",
+      "data": {
+        "type": "Monitoring Method",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "3887e901-938d-4a1c-9890-59b05965b61c"
+    },
+    {
+      "id": "6aa5c3fc-c148-4d96-8249-6a99fd74432c",
+      "data": {
+        "type": "Dominant Rock Type",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "eda4831e-45b8-4a1f-89b5-3e286c4711d1"
+    },
+    {
+      "id": "e098b9e8-5845-45cb-b4c2-2ca4704c3301",
+      "data": {
+        "type": "Eruptive Material",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "a3ee0840-b69e-4115-94a2-073f3ebb2a06"
+    },
+    {
+      "id": "e701a418-1914-41bc-9ad8-aa21d2b022f5",
+      "data": {
+        "type": "Monitoring Method",
+        "weight": 1,
+        "properties": {}
+      },
+      "source": "fa7bf85c-881d-4c76-a5c6-b1df4e63d40b",
+      "target": "9d00ecbc-f89f-4a8e-acbe-20147af1f3fc"
+    }
+  ]
+}
